@@ -1,0 +1,60 @@
+"0","setwd(""C:/Users/frank/Downloads/"")"
+"2","The working directory was changed to C:/Users/frank/Downloads inside a notebook chunk. The working directory will be reset when the chunk is finished running. Use the knitr root.dir option in the setup chunk to change the working directory for notebook chunks."
+"0","public <- read_tsv(""TableS3_panorama_driver_mutations_ICGC_samples.public.tsv.gz"")"
+"2","Parsed with column specification:
+cols(
+  sample_id = [31mcol_character()[39m,
+  ttype = [31mcol_character()[39m,
+  chr = [31mcol_character()[39m,
+  pos = [31mcol_character()[39m,
+  ref = [31mcol_character()[39m,
+  alt = [31mcol_character()[39m,
+  gene = [31mcol_character()[39m,
+  driver = [31mcol_character()[39m,
+  driver_statement = [31mcol_character()[39m,
+  category = [31mcol_character()[39m,
+  top_category = [31mcol_character()[39m,
+  biallelic = [31mcol_character()[39m
+)
+"
+"0","controlled <- read_tsv(""TableS3_panorama_driver_mutations_ICGC_samples.controlled.tsv"")"
+"2","Parsed with column specification:
+cols(
+  sample_id = [31mcol_character()[39m,
+  ttype = [31mcol_character()[39m,
+  chr = [31mcol_character()[39m,
+  pos = [31mcol_character()[39m,
+  ref = [31mcol_character()[39m,
+  alt = [31mcol_character()[39m,
+  gene = [31mcol_character()[39m,
+  driver = [31mcol_character()[39m,
+  driver_statement = [31mcol_character()[39m,
+  category = [31mcol_character()[39m,
+  top_category = [31mcol_character()[39m,
+  biallelic = [31mcol_character()[39m
+)
+"
+"0","brca <- read_tsv(""simple_somatic_mutation.open.BRCA-FR.tsv"")"
+"2","Parsed with column specification:
+cols(
+  .default = col_character(),
+  chromosome_start = [32mcol_double()[39m,
+  chromosome_end = [32mcol_double()[39m,
+  chromosome_strand = [32mcol_double()[39m,
+  quality_score = [33mcol_logical()[39m,
+  probability = [33mcol_logical()[39m,
+  total_read_count = [32mcol_double()[39m,
+  mutant_allele_read_count = [32mcol_double()[39m,
+  verification_platform = [33mcol_logical()[39m,
+  biological_validation_platform = [33mcol_logical()[39m,
+  gene_build_version = [32mcol_double()[39m,
+  other_analysis_algorithm = [33mcol_logical()[39m,
+  seq_coverage = [32mcol_double()[39m,
+  initial_data_release_date = [33mcol_logical()[39m
+)
+"
+"2","See spec(...) for full column specifications.
+"
+"0","view(public)"
+"0",""
+"0",""

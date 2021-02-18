@@ -1,0 +1,31 @@
+---
+title: "testing open data"
+output: html_document
+---
+
+### Loading Libraries
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+### Load in Data
+
+```{r}
+setwd("C:/Users/frank/Downloads/")
+
+public <- read_tsv("TableS3_panorama_driver_mutations_ICGC_samples.public.tsv.gz")
+
+controlled <- read_tsv("TableS3_panorama_driver_mutations_ICGC_samples.controlled.tsv")%>%
+  filter(category == "noncoding")
+
+
+
+
+
+```
+
+```{r random dataset}
+
+
+```
+
