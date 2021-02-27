@@ -1,6 +1,0 @@
-"0","setwd(""C:/Users/frank/Downloads/"")"
-"2","The working directory was changed to C:/Users/frank/Downloads inside a notebook chunk. The working directory will be reset when the chunk is finished running. Use the knitr root.dir option in the setup chunk to change the working directory for notebook chunks."
-"0","brca <- read_tsv(simple_somatic_mutation.open.BRCA-FR.tsv)"
-"2","Error in is.connection(x) : 
-  object 'simple_somatic_mutation.open.BRCA' not found
-"
