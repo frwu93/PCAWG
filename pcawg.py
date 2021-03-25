@@ -68,27 +68,23 @@ def constructBitVector(chromosome_coord_map, chromosome_length_map, chr_num):
         BitVector: a bit vector representing regions in chromosome that exhibited unusual growth activity.
         0 for coordinates not associated with cell growth, 1 for coordinates associated with cell growth
     """  
+
+    print("CHR NUM = " + str(chr_num))
+    print("CHR Length = " + str(chromosome_length_map[chr_num]))
+
+
     currIndex = 0
 
-    bv  = BitVector(size = chromosome_length_map[chr_num] + 1) # initializes a bit vector of 0's of size of chromosome + 1
+    bv  = BitVector(size = chromosome_length_map[chr_num]) # initializes a bit vector of 0's of size of chromosome + 1
 
     coord_lst = chromosome_coord_map[chr_num]
 
-    for i in range(chromosome_length_map[chr_num]):
-        if (i < coord_lst[currIndex] and currIndex % 2 == 0): # previous end coordinate < index <  current start coordinate
-            bv[i] = 0
-        elif(i < coord_lst[currIndex] and currIndex % 2 == 1): # current start coordinate < index <  current end coordinate
-            bv[i] = 0
+    for i in range(0, len(coord_lst)-1, 2): #going through coordinate list
+        start = coord_lst[i]  #start coordinate
+        print(start)
+        stop = coord_lst[i+1] #stop coordinate
+        for i in range(start, stop + 1):
             bv[i] = 1
-        elif(currIndex + 1 == len(coord_lst)): # very last end coordinate < index < end of chromosome
-            bv[i] = 0
-        else: # index >= current end coordinate --> we have entered a new region
-            currIndex += 1
-        if (i % 1000000 == 0): # testing purposes
-            print(i)
-
-    for i in range(len(coord_lst)): # go back and initialize all boundries to 1
-        bv[coord_lst[i]] = 1
 
     return bv
 
@@ -120,11 +116,11 @@ chromosome_coord_map = essentialElementReadIn("data/K562_distal_both_FDR_0.1.txt
 
 chromosome_length_map = chromosomeLengthReadIn("data/ChromosomeLengths.txt")
 
-bv = constructBitVector(chromosome_coord_map, chromosome_length_map, "22")
+bvMap = constructBitVectorMap(chromosome_coord_map, chromosome_length_map)
 
 
-print(bv[19784619:19784624])
-print(bv[19785041:19785046])
+# print(bv[19784619:19784624]) #expected "00111"
+# print(bv[19785041:19785046]) #expected "11100"
 
 print("--- %s seconds ---" % (time.time() - start_time))
     
