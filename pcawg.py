@@ -3,6 +3,11 @@ import os
 from BitVector import BitVector
 import sys
 import time 
+import csv
+import vcf
+import gzip
+import shutil
+
 
 
 def essentialElementReadIn(file_path):
@@ -69,6 +74,7 @@ def constructBitVector(chromosome_coord_map, chromosome_length_map, chr_num):
         0 for coordinates not associated with cell growth, 1 for coordinates associated with cell growth
     """  
 
+    #visual indicator for running purposes
     print("CHR NUM = " + str(chr_num))
     print("CHR Length = " + str(chromosome_length_map[chr_num]))
 
@@ -109,20 +115,150 @@ def constructBitVectorMap(chromosome_coord_map, chromosome_length_map):
    
     return bitVectorMap
 
+def constructCoordinateList(bv):
+    """[NOT IN USE] Constructs a list of [start,end] coordinates from a BitVector
+
+    Args:
+        bv (BitVector): The bit vector to be read
+
+    Returns:
+        list: list of start and end coordinates represented in the BitVector
+    """
+    bit_runs = bv.runs()
+    coord_lst = []
+    currentIndex = 0
+    for i in range(len(bit_runs)):
+        if "1" in bit_runs[i]:
+            coord_lst.append(currentIndex)
+            coord_lst.append(currentIndex + len(bit_runs[i]) - 1)
+        currentIndex+= len(bit_runs[i]) 
+    
+    return coord_lst
+
+def constructCoordinateMap(bitVectorMap):
+    """[NOT IN USE] Constructs a coordinate map based off of a bit vector map. Used to turn a set of BitVector chromosomes into lists of coordinates
+       one list per chromosome.
+
+    Args:
+        bitVectorMap (dict): a dict mapping the chromosome number (str) to the BitVector that represents it
+
+    Returns:
+        dict: a dict mapping the chromosome number (str) to a list of start,end coordinates
+    """
+    coord_map = {}
+    for chr in bitVectorMap.keys():
+        coord_lst = constructCoordinateList(bitVectorMap[chr])
+        coord_map[chr] = coord_lst
+
+    return coord_map
+
+def writeCoordinates(coord_map, filename):
+    """[NOT IN USE] Writes the coordinates from the coordinate map into an output file
+
+    Args:
+        coord_map (dict): a dict mapping the chromosome number (str) to a list of start,end coordinates
+        filename (str): name of the output file
+    """
+    for chr in coord_map:
+        pairs = []
+        lst = coord_map[chr]
+        for i in range(0, len(lst)-1, 2):
+            temp = ["chr" + chr, lst[i], lst[i+1]]
+            pairs.append(temp)
+        print(pairs)
+        pairs = pd.DataFrame(pairs)
+        pairs.to_csv(filename, index=False, sep = "\t", header = False, mode = 'a')
+
+def decompressGZFiles(folder, directory):
+    """Decompresses all .vcf.gz files to a .vcf file, stored in the given directory
+
+    Args:
+        folder (str): location of the folder containing the .vcf.gz files
+        directory (str): location of the folder to store the decompressed .vcf files
+    """
+    for entry in os.scandir(folder):
+        if(entry.path.endswith('.vcf.gz')):
+            print(entry)
+            decompressedFileName = directory + os.path.basename(entry)[:len(os.path.basename(entry))-3]
+            with gzip.open(entry, 'rb') as f_in:
+                with open(decompressedFileName, 'wb') as f_out:
+                    shutil.copyfileobj(f_in, f_out)
+    
+def compareVCFtoBitVectorMap(entry, bitVectorMap):
+    """Runs comparison of a single VCF to the essential elements, which is stored as a map of BitVectors.
+
+    Args:
+        entry (str): name of VCF file
+        bitVectorMap (dict): a dict mapping the chromosome number (str) to the BitVector that represents it
+
+    Returns:
+        list: A list of entries in the VCF that coincide with the BitVector map
+    """
+    hits = []
+    vcf_reader = vcf.Reader(vcf_file)
+    for record in vcf_reader:
+        #navigate to chromosome
+        bv = bitVectorMap[record.CHROM]
+        if bv == None:
+            continue
+        if (bv[record.POS] == 1):
+            hits.append(record)
+    print(len(hits))
+    return hits
+    
+        
+def compare(directory, bitVectorMap):
+    results = {}
+    for entry in os.scandir(directory):
+        if(entry.path.endswith('.vcf.gz')):
+            hits = compareVCFtoBitVector(entry, bitVectorMap)
+            results[entry] = hits
+            
 ## trial code
 start_time = time.time()
 
-chromosome_coord_map = essentialElementReadIn("data/K562_distal_both_FDR_0.1.txt")
+chromosome_coord_map_essential = essentialElementReadIn("data/K562_distal_both_FDR_0.1.txt")
+# # chromosome_coord_map_0g = essentialElementReadIn("data/distalDHS_0gRNAs_FDR0.1.txt")
+# # chromosome_coord_map_1g = essentialElementReadIn("data/distalDHS_1gRNAs_FDR0.1.txt")
 
 chromosome_length_map = chromosomeLengthReadIn("data/ChromosomeLengths.txt")
 
-bvMap = constructBitVectorMap(chromosome_coord_map, chromosome_length_map)
+bvMapEssential = constructBitVectorMap(chromosome_coord_map_essential, chromosome_length_map)
+# bvMap0g = constructBitVectorMap(chromosome_coord_map_0g, chromosome_length_map)
+# bvMap1g = constructBitVectorMap(chromosome_coord_map_1g, chromosome_length_map)
+
+# nogzip = gzip.open('data/final_consensus_passonly_data/snv_mnv/0a6be23a-d5a0-4e95-ada2-a61b2b5d9485.consensus.20160830.somatic.snv_mnv.vcf.gz','rb')
+# print(type(nogzip))
+# print('penis')
+# with gzip.open('data/final_consensus_passonly_data/snv_mnv/0a6be23a-d5a0-4e95-ada2-a61b2b5d9485.consensus.20160830.somatic.snv_mnv.vcf.gz', 'rb') as f_in:
+#     with open('file.vcf', 'wb') as f_out:
+#         shutil.copyfileobj(f_in, f_out)
+# asdf = vcf.Reader(open('file.vcf', 'r'))  
+# for record in asdf:
+#     print(record)
 
 
-# print(bv[19784619:19784624]) #expected "00111"
-# print(bv[19785041:19785046]) #expected "11100"
+# gun = gunzip('data\final_consensus_passonly_data\snv_mnv\0a6be23a-d5a0-4e95-ada2-a61b2b5d9485.consensus.20160830.somatic.snv_mnv.vcf.gz')
+# print(type(gun))
+# print('done')
+# counter = 0
+# for record in vcf_reader:
+#     #navigate to chromosome
+#     try:
+#         bv = bvMapEssential[record.CHROM]
+#     except:
+#         continue
+#     print(record.CHROM, record.POS, bv[record.POS])
+#     if (bv[record.POS] == 1):
+#         print("YES")
+#         counter+=1
+    
+# print(counter)
+# library_coord_map = constructCoordinateMap(bvMapEssential)
 
-print("--- %s seconds ---" % (time.time() - start_time))
+# results = compare("data/final_consensus_passonly_data/snv_mnv", bvMapEssential)
+# print(len(results))
+# print("--- %s seconds ---" % (time.time() - start_time))
     
 # df.to_csv('update.csv', sep = "\t")
 
