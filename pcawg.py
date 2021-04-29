@@ -7,6 +7,7 @@ import csv
 import vcf
 import gzip
 import shutil
+import winsound
 
 
 
@@ -176,13 +177,18 @@ def decompressGZFiles(folder, directory):
         folder (str): location of the folder containing the .vcf.gz files
         directory (str): location of the folder to store the decompressed .vcf files
     """
+    print("wtf", folder)
+    count = 0
     for entry in os.scandir(folder):
         if(entry.path.endswith('.vcf.gz')):
+            count+=1
             print(entry)
             decompressedFileName = directory + os.path.basename(entry)[:len(os.path.basename(entry))-3]
             with gzip.open(entry, 'rb') as f_in:
                 with open(decompressedFileName, 'wb') as f_out:
                     shutil.copyfileobj(f_in, f_out)
+        if(count == 50):
+            sys.exit(1)
     
 def compareVCFtoBitVectorMap(entry, bitVectorMap):
     """Runs comparison of a single VCF to the essential elements, which is stored as a map of BitVectors.
@@ -195,70 +201,72 @@ def compareVCFtoBitVectorMap(entry, bitVectorMap):
         list: A list of entries in the VCF that coincide with the BitVector map
     """
     hits = []
-    vcf_reader = vcf.Reader(vcf_file)
+    vcf_reader = vcf.Reader(open(entry, 'r'))
     for record in vcf_reader:
-        #navigate to chromosome
-        bv = bitVectorMap[record.CHROM]
-        if bv == None:
-            continue
-        if (bv[record.POS] == 1):
-            hits.append(record)
+        try:
+            if record.CHROM == 'Y' or record.CHROM not in bitVectorMap:
+                continue
+            #navigate to chromosome
+            bv = bitVectorMap[record.CHROM]
+            if (bv[record.POS] == 1):
+                hits.append([str(record), record.INFO])
+        except Exception as e:
+            winsound.Beep(440, 500)
+            print(entry, record.CHROM, record.POS)
+            raise e
     print(len(hits))
     return hits
     
-        
-def compare(directory, bitVectorMap):
+
+def compare(directory, bitVectorDict):
     results = {}
     for entry in os.scandir(directory):
-        if(entry.path.endswith('.vcf.gz')):
-            hits = compareVCFtoBitVector(entry, bitVectorMap)
-            results[entry] = hits
+        for bvMap in bitVectorDict:
+            hits = compareVCFtoBitVectorMap(entry, bitVectorDict[bvMap])
+            if (len(hits)>0):
+                if bvMap not in results:
+                    results[bvMap] = {}
+                results[bvMap][entry] = hits
+
+    return results
             
 ## trial code
 start_time = time.time()
 
-chromosome_coord_map_essential = essentialElementReadIn("data/K562_distal_both_FDR_0.1.txt")
-# # chromosome_coord_map_0g = essentialElementReadIn("data/distalDHS_0gRNAs_FDR0.1.txt")
-# # chromosome_coord_map_1g = essentialElementReadIn("data/distalDHS_1gRNAs_FDR0.1.txt")
+chromosome_coord_map_essential_both = essentialElementReadIn("data/K562_distal_both_FDR_0.1.txt")
+chromosome_coord_map_essential_depleted = essentialElementReadIn("data/K562_distal_depleted_FDR_0.1.txt")
+chromosome_coord_map_essential_enriched = essentialElementReadIn("data/K562_distal_enriched_FDR_0.1.txt")
+chromosome_coord_map_essential_nonsig = essentialElementReadIn("data/K562_distal_nonsig_FDR_0.1.txt")
+
+# chromosome_coord_map_0g = essentialElementReadIn("data/distalDHS_0gRNAs_FDR0.1.txt")
+# chromosome_coord_map_1g = essentialElementReadIn("data/distalDHS_1gRNAs_FDR0.1.txt")
 
 chromosome_length_map = chromosomeLengthReadIn("data/ChromosomeLengths.txt")
 
-bvMapEssential = constructBitVectorMap(chromosome_coord_map_essential, chromosome_length_map)
+bvMapEssential_both = constructBitVectorMap(chromosome_coord_map_essential_both, chromosome_length_map)
+bvMapEssential_depleted = constructBitVectorMap(chromosome_coord_map_essential_depleted, chromosome_length_map)
+bvMapEssential_enriched = constructBitVectorMap(chromosome_coord_map_essential_enriched, chromosome_length_map)
+bvMapEssential_nonsig = constructBitVectorMap(chromosome_coord_map_essential_nonsig, chromosome_length_map)
+
 # bvMap0g = constructBitVectorMap(chromosome_coord_map_0g, chromosome_length_map)
 # bvMap1g = constructBitVectorMap(chromosome_coord_map_1g, chromosome_length_map)
 
-# nogzip = gzip.open('data/final_consensus_passonly_data/snv_mnv/0a6be23a-d5a0-4e95-ada2-a61b2b5d9485.consensus.20160830.somatic.snv_mnv.vcf.gz','rb')
-# print(type(nogzip))
-# print('penis')
-# with gzip.open('data/final_consensus_passonly_data/snv_mnv/0a6be23a-d5a0-4e95-ada2-a61b2b5d9485.consensus.20160830.somatic.snv_mnv.vcf.gz', 'rb') as f_in:
-#     with open('file.vcf', 'wb') as f_out:
-#         shutil.copyfileobj(f_in, f_out)
-# asdf = vcf.Reader(open('file.vcf', 'r'))  
-# for record in asdf:
-#     print(record)
+map_of_maps = {'K562_distal_both_FDR_0.1.txt':bvMapEssential_both, 'K562_distal_depleted_FDR_0.1.txt':bvMapEssential_depleted,
+'K562_distal_enriched_FDR_0.1.txt':bvMapEssential_enriched, 'K562_distal_nonsig_FDR_0.1.txt': bvMapEssential_nonsig}
+
+results = compare("data/final_consensus_decompressed/snv_mnv", map_of_maps)
+for bvMap in results:
+    with open("output_" + bvMap, "w") as output_file:
+        for entry in results[bvMap]:
+            output_file.write(os.path.basename(entry) + '\n')
+            for line in results[bvMap][entry]:
+                info = ''.join(key + str(val) + ';' for key, val in line[1].items())
+                output_file.write(line[0] + '....' + info + '\n')
 
 
-# gun = gunzip('data\final_consensus_passonly_data\snv_mnv\0a6be23a-d5a0-4e95-ada2-a61b2b5d9485.consensus.20160830.somatic.snv_mnv.vcf.gz')
-# print(type(gun))
-# print('done')
-# counter = 0
-# for record in vcf_reader:
-#     #navigate to chromosome
-#     try:
-#         bv = bvMapEssential[record.CHROM]
-#     except:
-#         continue
-#     print(record.CHROM, record.POS, bv[record.POS])
-#     if (bv[record.POS] == 1):
-#         print("YES")
-#         counter+=1
-    
-# print(counter)
-# library_coord_map = constructCoordinateMap(bvMapEssential)
 
-# results = compare("data/final_consensus_passonly_data/snv_mnv", bvMapEssential)
 # print(len(results))
-# print("--- %s seconds ---" % (time.time() - start_time))
+print("--- %s seconds ---" % (time.time() - start_time))
     
 # df.to_csv('update.csv', sep = "\t")
 
