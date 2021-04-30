@@ -238,8 +238,8 @@ chromosome_coord_map_essential_depleted = essentialElementReadIn("data/K562_dist
 chromosome_coord_map_essential_enriched = essentialElementReadIn("data/K562_distal_enriched_FDR_0.1.txt")
 chromosome_coord_map_essential_nonsig = essentialElementReadIn("data/K562_distal_nonsig_FDR_0.1.txt")
 
-# chromosome_coord_map_0g = essentialElementReadIn("data/distalDHS_0gRNAs_FDR0.1.txt")
-# chromosome_coord_map_1g = essentialElementReadIn("data/distalDHS_1gRNAs_FDR0.1.txt")
+chromosome_coord_map_0g = essentialElementReadIn("data/distalDHS_0gRNAs_FDR0.1.txt")
+chromosome_coord_map_1g = essentialElementReadIn("data/distalDHS_1gRNAs_FDR0.1.txt")
 
 chromosome_length_map = chromosomeLengthReadIn("data/ChromosomeLengths.txt")
 
@@ -248,13 +248,15 @@ bvMapEssential_depleted = constructBitVectorMap(chromosome_coord_map_essential_d
 bvMapEssential_enriched = constructBitVectorMap(chromosome_coord_map_essential_enriched, chromosome_length_map)
 bvMapEssential_nonsig = constructBitVectorMap(chromosome_coord_map_essential_nonsig, chromosome_length_map)
 
-# bvMap0g = constructBitVectorMap(chromosome_coord_map_0g, chromosome_length_map)
-# bvMap1g = constructBitVectorMap(chromosome_coord_map_1g, chromosome_length_map)
+bvMap0g = constructBitVectorMap(chromosome_coord_map_0g, chromosome_length_map)
+bvMap1g = constructBitVectorMap(chromosome_coord_map_1g, chromosome_length_map)
 
-map_of_maps = {'K562_distal_both_FDR_0.1.txt':bvMapEssential_both, 'K562_distal_depleted_FDR_0.1.txt':bvMapEssential_depleted,
+map_of_maps = {'K562_distal_both_FDR_0.1.txt':bvMap0g, 'K562_distal_depleted_FDR_0.1.txt':bvMap1g,
 'K562_distal_enriched_FDR_0.1.txt':bvMapEssential_enriched, 'K562_distal_nonsig_FDR_0.1.txt': bvMapEssential_nonsig}
 
-results = compare("data/final_consensus_decompressed/snv_mnv", map_of_maps)
+no_result_maps = {'distalDHS_0gRNAs_FDR0.1.txt':bvMap0g, 'distalDHS_1gRNAs_FDR0.1.txt':bvMap1g}
+
+results = compare("data/final_consensus_decompressed/snv_mnv", no_result_maps)
 for bvMap in results:
     with open("output_" + bvMap, "w") as output_file:
         for entry in results[bvMap]:
