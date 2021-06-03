@@ -1,0 +1,1312 @@
+0009b464-b376-4fbc-8a56-da538269a02f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=37295153, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1719;cosmicCOSN9127684;t_alt_count11;t_ref_count53;Variant_ClassificationIGR;
+Record(CHROM=20, POS=37295154, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1719;cosmicCOSN9127685;t_alt_count11;t_ref_count53;Variant_ClassificationIGR;
+0040b1b6-b07a-4b6e-90ef-133523eaf412.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=110649012, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2473;cosmicCOSN1086833;t_alt_count23;t_ref_count70;Variant_ClassificationRNA;
+005794f1-5a87-45b5-9811-83ddf6924568.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=30249823, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3433;cosmicCOSN10014313;repeat_maskerMIR;t_alt_count23;t_ref_count44;Variant_ClassificationIGR;
+01b0848c-ae36-4ade-a3da-d297b003c99f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=101072110, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1818;t_alt_count6;t_ref_count27;Variant_ClassificationIGR;
+Record(CHROM=7, POS=155149885, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.0656;t_alt_count4;t_ref_count57;Variant_Classification3'UTR;
+01dc6872-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=42821362, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1667;cosmicCOSN6144648;t_alt_count4;t_ref_count20;Variant_ClassificationIntron;
+0250e6f7-2538-4d1f-a8ff-ca34a7057dde.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=58301067, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1014;cosmicCOSN17655558;repeat_maskerLTR17;t_alt_count7;t_ref_count62;Variant_ClassificationlincRNA;
+Record(CHROM=7, POS=137693759, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2273;t_alt_count20;t_ref_count68;Variant_ClassificationIntron;
+02917220-6a7a-46a1-8656-907e96bef88e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=101072840, REF=T, ALT=[G])....Callers['dkfz', 'muse', 'sanger'];NumCallers3;VAF0.3077;t_alt_count8;t_ref_count18;Variant_ClassificationIGR;
+03c3c692-8a86-4843-85ae-e045f0fa6f88.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=18, POS=46449067, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.24;cosmicCOSN7361290;t_alt_count6;t_ref_count19;Variant_ClassificationIntron;
+Record(CHROM=6, POS=31606881, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3857;cosmicCOSN7870523;t_alt_count27;t_ref_count43;Variant_Classification3'UTR;
+Record(CHROM=6, POS=31606925, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1452;cosmicCOSM3394085;t_alt_count9;t_ref_count53;signature_N3True;Variant_ClassificationMissense_Mutation;
+0609b182-0396-4755-b463-10f949c5b8bb.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=103571339, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.48;t_alt_count12;t_ref_count13;Variant_ClassificationMissense_Mutation;
+06ecd127-6c24-422d-a7fb-bf5aee1b8b7b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=58342890, REF=T, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.3438;repeat_maskerL1MEg;t_alt_count22;t_ref_count42;Variant_ClassificationIntron;
+07835447-5d7e-4828-80fd-89b063989c9a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=47210638, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3226;t_alt_count10;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=21, POS=43377290, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5263;t_alt_count30;t_ref_count27;Variant_ClassificationIGR;
+0831e45e-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=167736, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2857;cosmicCOSN6873499;t_alt_count2;t_ref_count5;Variant_ClassificationlincRNA;
+08b5d0e4-4661-460e-a9f7-f2e687414711.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=91173247, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4848;t_alt_count16;t_ref_count17;Variant_ClassificationIGR;
+Record(CHROM=17, POS=73429507, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2812;t_alt_count9;t_ref_count23;Variant_ClassificationRNA;
+Record(CHROM=2, POS=113470311, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3333;t_alt_count8;t_ref_count16;Variant_ClassificationIGR;
+Record(CHROM=3, POS=39243753, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4167;t_alt_count25;t_ref_count35;Variant_ClassificationIGR;
+Record(CHROM=6, POS=39278617, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6538;t_alt_count17;t_ref_count9;Variant_ClassificationIntron;
+08d2a566-8407-4e9b-836c-bf5e1e9f85b2.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=111834702, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.1304;repeat_maskerMIRc;t_alt_count3;t_ref_count20;Variant_ClassificationlincRNA;
+09508a0d-ebe0-4fa1-b7b2-1710814181cd.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=91172918, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1058;cosmicCOSN8521010;t_alt_count11;t_ref_count93;Variant_ClassificationIGR;
+0972bfcf-c6c6-48cc-b820-cdfa6279a4f3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=18204716, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.082;cosmicCOSN16111965;dbsnprs775642597;t_alt_count5;t_ref_count56;Variant_ClassificationIntron;
+097a7d36-905b-72be-e050-11ac0d482c9a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=103571969, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.0722;t_alt_count14;t_ref_count180;Variant_ClassificationIntron;
+Record(CHROM=15, POS=101548240, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.0722;repeat_maskerAluSx;t_alt_count13;t_ref_count167;Variant_ClassificationIntron;
+Record(CHROM=16, POS=33569353, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.234;t_alt_count73;t_ref_count239;Variant_ClassificationIGR;
+Record(CHROM=19, POS=18897053, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1159;cosmicCOSM160155;t_alt_count19;t_ref_count145;Variant_ClassificationMissense_Mutation;
+Record(CHROM=2, POS=65663600, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1598;t_alt_count35;t_ref_count184;Variant_ClassificationlincRNA;
+Record(CHROM=5, POS=95178992, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.0849;repeat_maskerMIRb;t_alt_count18;t_ref_count194;Variant_ClassificationRNA;
+Record(CHROM=6, POS=7899706, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4031;t_alt_count77;t_ref_count114;Variant_ClassificationIntron;
+Record(CHROM=7, POS=168039, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2136;t_alt_count44;t_ref_count162;Variant_ClassificationIGR;
+0ab4d782-9a50-48b9-96e4-6ce42b2ea034.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=227161325, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5208;t_alt_count25;t_ref_count23;Variant_ClassificationIntron;
+Record(CHROM=12, POS=53721989, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4667;t_alt_count21;t_ref_count24;Variant_ClassificationMissense_Mutation;
+Record(CHROM=15, POS=41788160, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4194;t_alt_count13;t_ref_count18;Variant_ClassificationIntron;
+Record(CHROM=6, POS=44169921, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2143;t_alt_count18;t_ref_count66;Variant_ClassificationIGR;
+Record(CHROM=7, POS=1572230, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2394;t_alt_count17;t_ref_count54;Variant_ClassificationIntron;
+0b29c893-03bf-4131-b192-c14a2788d411.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=X, POS=134305324, REF=A, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2353;t_alt_count8;t_ref_count26;Variant_Classification5'Flank;
+0bfd1043-5142-3662-e050-11ac0c486501.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616569, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4516;t_alt_count14;t_ref_count17;Variant_Classification3'UTR;
+0bfd1043-70fb-d2dc-e050-11ac0c4860cb.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616569, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2407;t_alt_count13;t_ref_count41;Variant_Classification3'UTR;
+0bfd1043-7344-fdd0-e050-11ac0c484cab.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=7475202, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.551;repeat_maskerLTR33;t_alt_count27;t_ref_count22;Variant_ClassificationIntron;
+Record(CHROM=6, POS=16265850, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.2979;dbsnprs72478852;repeat_maskerLTR12;t_alt_count28;t_ref_count66;Variant_ClassificationIntron;
+0bfd1043-816e-e3e4-e050-11ac0c4860c5.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=7475202, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.32;repeat_maskerLTR33;t_alt_count16;t_ref_count34;Variant_ClassificationIntron;
+Record(CHROM=6, POS=16265850, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.325;dbsnprs72478852;repeat_maskerLTR12;t_alt_count26;t_ref_count54;Variant_ClassificationIntron;
+0bfd1043-817e-e3e4-e050-11ac0c4860c5.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=21, POS=38905566, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2889;repeat_maskerLTR41;t_alt_count13;t_ref_count32;Variant_ClassificationIGR;
+0bfd1043-8180-e3e4-e050-11ac0c4860c5.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=14246498, REF=A, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.0938;t_alt_count3;t_ref_count29;Variant_ClassificationIGR;
+0bfd1043-8189-e3e4-e050-11ac0c4860c5.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616569, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2857;t_alt_count10;t_ref_count25;Variant_Classification3'UTR;
+0bfd1068-3fcf-a95b-e050-11ac0c4860c3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=139119512, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2208;repeat_maskerMIRc;t_alt_count17;t_ref_count60;Variant_ClassificationIGR;
+0bfd1068-3fe4-a95b-e050-11ac0c4860c3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616569, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6098;t_alt_count25;t_ref_count16;Variant_Classification3'UTR;
+0bfe2ac9-0afa-c248-e050-11ac0d487e1c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=44779793, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.209;t_alt_count14;t_ref_count53;Variant_ClassificationIGR;
+Record(CHROM=11, POS=124616569, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3333;t_alt_count15;t_ref_count30;Variant_Classification3'UTR;
+0bfe2ac9-0afd-c248-e050-11ac0d487e1c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616569, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3095;t_alt_count13;t_ref_count29;Variant_Classification3'UTR;
+0bfe2ac9-0aff-c248-e050-11ac0d487e1c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616569, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2593;t_alt_count14;t_ref_count40;Variant_Classification3'UTR;
+0bfebf9f-c77d-e57d-e050-11ac0d487827.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=110648715, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4167;t_alt_count25;t_ref_count35;Variant_ClassificationRNA;
+0bfebf9f-c781-e57d-e050-11ac0d487827.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616569, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3158;t_alt_count6;t_ref_count13;Variant_Classification3'UTR;
+0bfebf9f-c783-e57d-e050-11ac0d487827.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616569, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3529;t_alt_count12;t_ref_count22;Variant_Classification3'UTR;
+0c0038ff-6cc8-b0b0-e050-11ac0d483d73.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616569, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4694;t_alt_count23;t_ref_count26;Variant_Classification3'UTR;
+0d0793c1-df1b-4db1-ba36-adcb960cc0f5.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=X, POS=152955499, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1013;cosmicCOSN9187896;t_alt_count8;t_ref_count71;Variant_ClassificationIntron;
+0d569bd5-418d-4d72-87ca-8e14668c2119.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=140617375, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1455;t_alt_count8;t_ref_count47;Variant_ClassificationIGR;
+0dd39eca-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=207694024, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.25;repeat_maskerL1ME3;t_alt_count7;t_ref_count21;Variant_ClassificationIntron;
+0eeafcd6-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=10206494, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3;cosmicCOSN6137492;repeat_maskerMER46C;t_alt_count9;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=7, POS=168360, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3571;cosmicCOSN6873515;t_alt_count5;t_ref_count9;Variant_ClassificationIGR;
+0efee3f3-313b-44eb-b3b0-af975a1ded82.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=156426364, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2123;cosmicCOSN14647554;t_alt_count31;t_ref_count115;Variant_ClassificationlincRNA;
+0f9e70b3-24cf-4d76-af7b-84ace66ec5a7.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=7900024, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2364;t_alt_count13;t_ref_count42;Variant_ClassificationIntron;
+0fbd94b1-bb34-4620-841b-861a0b5e0c12.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=19217002, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.058;t_alt_count4;t_ref_count65;Variant_ClassificationIntron;
+108749d2-5c62-4ef1-92df-aec6941ba53b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=56097302, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.4375;t_alt_count7;t_ref_count9;Variant_ClassificationIGR;
+Record(CHROM=20, POS=35050435, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6441;repeat_maskerL2b;t_alt_count38;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=9, POS=135860185, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2683;t_alt_count11;t_ref_count30;Variant_ClassificationIntron;
+10cb8ac6-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=7475097, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1818;t_alt_count6;t_ref_count27;Variant_ClassificationIntron;
+122bf0a9-8052-49da-a9d7-0e5de9ab7032.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=16270590, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1667;t_alt_count8;t_ref_count40;Variant_ClassificationIntron;
+129459c1-38be-45da-bb87-18848c97c544.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=152569268, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4545;cosmicCOSN15980435;dbsnprs773982019;t_alt_count10;t_ref_count12;Variant_ClassificationIGR;
+1295947c-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=152769970, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5185;cosmicCOSN6736806;repeat_maskerMIR3;t_alt_count14;t_ref_count13;Variant_ClassificationIGR;
+12f038e1-00af-4c64-a2e0-9e63323492ef.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=64917982, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3881;cosmicCOSN6978529;t_alt_count26;t_ref_count41;Variant_ClassificationIGR;
+Record(CHROM=10, POS=64918012, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.431;cosmicCOSN6978530;t_alt_count25;t_ref_count33;Variant_ClassificationIGR;
+Record(CHROM=8, POS=125795136, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1923;cosmicCOSN8063889;t_alt_count15;t_ref_count63;Variant_ClassificationIGR;
+12f1ae2f-2666-45be-9742-f502d212373d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=7899261, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.0714;t_alt_count4;t_ref_count52;Variant_ClassificationIntron;
+Record(CHROM=7, POS=30102308, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1461;t_alt_count13;t_ref_count76;Variant_ClassificationMissense_Mutation;
+134c9a92-e91e-4347-a9c4-727279edebb1.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=104687662, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2593;t_alt_count21;t_ref_count60;Variant_ClassificationIntron;
+Record(CHROM=5, POS=5025910, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1875;repeat_maskerLTR12F;t_alt_count15;t_ref_count65;Variant_ClassificationlincRNA;
+13bd2b30-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=19217022, REF=C, ALT=[G])....Callers['dkfz', 'sanger'];NumCallers2;VAF0.25;cosmicCOSN6139131;t_alt_count3;t_ref_count9;Variant_ClassificationIntron;
+141918cd-3e23-45bc-96e1-b208c80f69e7.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=141566869, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1705;repeat_maskerL2a;t_alt_count15;t_ref_count73;Variant_ClassificationIGR;
+142b6dbf-c943-4a7d-8ab6-13a975f48d7a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=13847278, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8158;repeat_maskerMER74A;t_alt_count31;t_ref_count7;Variant_ClassificationIGR;
+Record(CHROM=7, POS=155588277, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1791;t_alt_count12;t_ref_count55;Variant_ClassificationIGR;
+Record(CHROM=8, POS=125795157, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3529;t_alt_count12;t_ref_count22;Variant_ClassificationIGR;
+Record(CHROM=9, POS=137247937, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4286;t_alt_count6;t_ref_count8;Variant_ClassificationIntron;
+1447c8cb-25d4-4092-8919-4df08f898d2d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=10806061, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1795;cosmicCOSN7353640;t_alt_count7;t_ref_count32;Variant_ClassificationIGR;
+145f2b89-8878-4390-b0f6-f09b02fb138a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=19216624, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.0833;repeat_masker(CCCCG)n;t_alt_count1;t_ref_count11;Variant_ClassificationIntron;
+Record(CHROM=19, POS=19216656, REF=C, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.1818;cosmicCOSN4907001;repeat_masker(CCCCG)n;t_alt_count4;t_ref_count18;Variant_ClassificationIntron;
+155873b2-e5de-405f-87f6-6de0d238b160.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=46988489, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.254;cosmicCOSN10049230;t_alt_count16;t_ref_count47;Variant_ClassificationIGR;
+15a93657-0521-430a-a816-bf0842374b75.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=127507488, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.339;cosmicCOSN9858283;repeat_maskerMER20B;t_alt_count20;t_ref_count39;Variant_ClassificationIGR;
+16d5519e-ecb9-4fc8-81f1-e0e4adf722a8.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=22443839, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.3455;repeat_maskerHERVL32-int;t_alt_count19;t_ref_count36;Variant_ClassificationIGR;
+Record(CHROM=16, POS=31415938, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5833;t_alt_count14;t_ref_count10;Variant_ClassificationIntron;
+Record(CHROM=19, POS=18896131, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.4118;repeat_masker(CCCCG)n;t_alt_count7;t_ref_count10;Variant_ClassificationIntron;
+Record(CHROM=3, POS=72510182, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2717;t_alt_count25;t_ref_count67;Variant_ClassificationIGR;
+Record(CHROM=7, POS=139119593, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1923;repeat_maskerMIRc;t_alt_count5;t_ref_count21;Variant_ClassificationIGR;
+Record(CHROM=7, POS=155137796, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;t_ref_count16;Variant_ClassificationIGR;
+Record(CHROM=7, POS=155137797, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;t_ref_count16;Variant_ClassificationIGR;
+17de5b12-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=106647564, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4615;cosmicCOSN6342531;t_alt_count12;t_ref_count14;Variant_ClassificationIGR;
+19085f7d-e6a6-406f-bd09-520a27e0283d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=152769851, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2698;cosmicCOSN5038828;repeat_maskerMIR3;t_alt_count17;t_ref_count46;Variant_ClassificationIGR;
+19fe27d8-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=8, POS=143571149, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2273;t_alt_count5;t_ref_count17;Variant_ClassificationIntron;
+1a0ef226-41a5-4b56-9078-4b7834f0c976.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=58301261, REF=C, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2264;cosmicCOSN17267113;repeat_maskerLTR17;t_alt_count12;t_ref_count41;Variant_ClassificationlincRNA;
+1a4633c4-72a0-4e30-8c4c-345e04337627.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=6927291, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2857;t_alt_count6;t_ref_count15;Variant_ClassificationIntron;
+1d4a091d-fe65-49c0-8810-5a95243b108a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=1956020, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2593;t_alt_count7;t_ref_count20;Variant_ClassificationIntron;
+Record(CHROM=1, POS=45501463, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5455;t_alt_count18;t_ref_count15;Variant_ClassificationMissense_Mutation;
+Record(CHROM=2, POS=113470516, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs536870062;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.45;dbsnprs536870062;t_alt_count18;t_ref_count22;Variant_ClassificationIGR;
+Record(CHROM=7, POS=659925, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2941;repeat_maskerL1M5;t_alt_count10;t_ref_count24;Variant_ClassificationIntron;
+1daefc49-5248-4948-87ce-0ec19a248ef9.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=27098594, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4902;t_alt_count25;t_ref_count26;Variant_ClassificationIntron;
+Record(CHROM=20, POS=37295116, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.25;t_alt_count13;t_ref_count39;Variant_ClassificationIGR;
+Record(CHROM=8, POS=140641432, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3607;t_alt_count22;t_ref_count39;Variant_ClassificationIntron;
+Record(CHROM=8, POS=143571238, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3276;t_alt_count19;t_ref_count39;Variant_ClassificationIntron;
+1de83d45-8492-4b83-9055-a9f43b823f91.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=168578, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs550292069;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5;cosmicCOSN19239325;dbsnprs550292069;t_alt_count14;t_ref_count14;Variant_ClassificationIGR;
+1df8939c-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=60493809, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3462;cosmicCOSN5447440;t_alt_count9;t_ref_count17;Variant_ClassificationIntron;
+1eb37b28-fac2-477a-88b3-e04291a07926.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=33933992, REF=C, ALT=[T])....1000genomes_AF0.0067891;1000genomes_IDrs114863329;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2195;cosmicCOSN17003389;dbsnprs114863329;t_alt_count9;t_ref_count32;Variant_ClassificationIGR;
+1f967003-82d6-4932-a445-24fc25723594.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=8, POS=125795001, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3735;cosmicCOSN15295237;t_alt_count31;t_ref_count52;Variant_ClassificationIGR;
+1fd69adc-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=65663844, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4;cosmicCOSN6190489;t_alt_count4;t_ref_count6;Variant_ClassificationlincRNA;
+20e02396-e676-412d-9724-44a428919cdb.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=72314574, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.725;t_alt_count29;t_ref_count11;Variant_ClassificationRNA;
+21b1a37f-e91e-4ce1-83cf-bb89b8d0fb35.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=79154286, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2787;cosmicCOSN7580790;t_alt_count17;t_ref_count44;Variant_ClassificationIGR;
+22d67778-61fc-4f15-95b8-7e7c6cc7112b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=37876074, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4186;t_alt_count18;t_ref_count25;Variant_ClassificationIGR;
+Record(CHROM=11, POS=73700400, REF=G, ALT=[A])....Callers['dkfz', 'muse', 'sanger'];NumCallers3;VAF0.36;t_alt_count18;t_ref_count32;snv_near_indelTrue;Variant_ClassificationIGR;
+Record(CHROM=11, POS=124617002, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4483;t_alt_count13;t_ref_count16;Variant_Classification3'UTR;
+Record(CHROM=16, POS=33569576, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.2439;repeat_maskerMLT1J;t_alt_count20;t_ref_count62;Variant_ClassificationIGR;
+Record(CHROM=5, POS=134801642, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.619;t_alt_count78;t_ref_count48;Variant_ClassificationIGR;
+232b7754-b3c3-4530-9d24-3af40d9b2816.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=101547390, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1395;t_alt_count6;t_ref_count37;Variant_ClassificationIntron;
+23fa90d5-b273-4e2c-9c88-68aa57b60e97.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=23322147, REF=C, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.0597;t_alt_count4;t_ref_count63;Variant_ClassificationRNA;
+241abdfd-e6de-4830-a233-4bbc5f622725.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=22443825, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1826;cosmicCOSN7037820;repeat_maskerHERVL32-int;t_alt_count21;t_ref_count94;Variant_ClassificationIGR;
+2468e58c-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=111834938, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2917;cosmicCOSN5930385;t_alt_count7;t_ref_count17;Variant_ClassificationlincRNA;
+25103371-28ac-4f43-b0e2-2d376d0dcb84.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=1954627, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5;t_alt_count38;t_ref_count38;Variant_ClassificationIntron;
+Record(CHROM=1, POS=156427230, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4643;t_alt_count26;t_ref_count30;Variant_ClassificationlincRNA;
+Record(CHROM=12, POS=122116718, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.9;t_alt_count27;t_ref_count3;Variant_ClassificationIGR;
+Record(CHROM=16, POS=31416179, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.475;repeat_maskerC-rich;t_alt_count19;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=2, POS=113471168, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5538;t_alt_count36;t_ref_count29;Variant_ClassificationIGR;
+Record(CHROM=20, POS=37295533, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4019;t_alt_count43;t_ref_count64;Variant_ClassificationIGR;
+Record(CHROM=3, POS=39243885, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5165;t_alt_count47;t_ref_count44;Variant_ClassificationIGR;
+Record(CHROM=4, POS=9895225, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.5238;repeat_masker(GGGA)n;t_alt_count11;t_ref_count10;Variant_ClassificationIntron;
+Record(CHROM=7, POS=66023114, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3214;t_alt_count9;t_ref_count19;Variant_ClassificationIGR;
+2564a262-03e8-467b-9ea2-f3ab38d75ae1.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=207628207, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6061;cosmicCOSN7983871;t_alt_count20;t_ref_count13;Variant_ClassificationIntron;
+2572b0bc-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=30198538, REF=C, ALT=[A])....Callers['muse', 'sanger'];NumCallers2;VAF0.2857;cosmicCOSM1629868;t_alt_count4;t_ref_count10;Variant_ClassificationSilent;
+25e20393-752b-4796-9001-0e22ee04c586.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=73508420, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8519;t_alt_count23;t_ref_count4;Variant_Classification3'UTR;
+Record(CHROM=16, POS=87616075, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4634;t_alt_count38;t_ref_count44;Variant_ClassificationIGR;
+Record(CHROM=3, POS=138699053, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8;t_alt_count40;t_ref_count10;Variant_ClassificationIGR;
+Record(CHROM=6, POS=39193464, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3391;t_alt_count39;t_ref_count76;Variant_ClassificationIntron;
+Record(CHROM=7, POS=66023194, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3043;t_alt_count14;t_ref_count32;Variant_ClassificationIGR;
+Record(CHROM=9, POS=135860214, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8158;t_alt_count31;t_ref_count7;Variant_ClassificationIntron;
+25f07374-313a-4100-9a60-3d21d2988fca.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569606, REF=T, ALT=[C])....Callers['broad', 'muse'];NumCallers2;VAF0.0957;repeat_maskerMLT1J;t_alt_count9;t_ref_count85;Variant_ClassificationIGR;
+26de406e-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=148967381, REF=T, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.4773;cosmicCOSN1797138;repeat_maskerMSTB;t_alt_count21;t_ref_count23;Variant_ClassificationIntron;
+2790b964-63e3-49aa-bf8c-9a00d3448c25.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=27070782, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2727;t_alt_count15;t_ref_count40;Variant_ClassificationIntron;
+Record(CHROM=1, POS=228253354, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2532;t_alt_count20;t_ref_count59;Variant_ClassificationIGR;
+Record(CHROM=11, POS=33933998, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3151;t_alt_count23;t_ref_count50;Variant_ClassificationIGR;
+Record(CHROM=11, POS=112151459, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.7213;t_alt_count44;t_ref_count17;Variant_ClassificationRNA;
+Record(CHROM=12, POS=111834906, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3056;t_alt_count11;t_ref_count25;Variant_ClassificationlincRNA;
+Record(CHROM=15, POS=101548765, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3721;t_alt_count16;t_ref_count27;Variant_ClassificationIntron;
+Record(CHROM=17, POS=42365885, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3864;t_alt_count17;t_ref_count27;Variant_ClassificationRNA;
+Record(CHROM=2, POS=113470752, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3778;repeat_maskerL2b;t_alt_count17;t_ref_count28;Variant_ClassificationIGR;
+Record(CHROM=20, POS=43919710, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2174;t_alt_count15;t_ref_count54;Variant_ClassificationIGR;
+Record(CHROM=5, POS=134801996, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2368;t_alt_count9;t_ref_count29;Variant_ClassificationIGR;
+Record(CHROM=7, POS=150693450, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.4;repeat_maskerC-rich;t_alt_count8;t_ref_count12;Variant_ClassificationIntron;
+Record(CHROM=9, POS=135879786, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4595;t_alt_count17;t_ref_count20;Variant_ClassificationIGR;
+27b56bf2-7a9d-4061-98d4-61fe2761578c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=41146633, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3056;t_alt_count11;t_ref_count25;Variant_ClassificationIGR;
+Record(CHROM=5, POS=79154144, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4359;t_alt_count17;t_ref_count22;Variant_ClassificationIGR;
+2828e5e6-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=46988478, REF=G, ALT=[T])....Callers['broad', 'sanger'];NumCallers2;VAF0.6;t_alt_count3;t_ref_count2;Variant_ClassificationIGR;
+28839c75-90a8-493f-b658-8c63e0ebd324.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=9326215, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2326;t_alt_count20;t_ref_count66;Variant_Classification3'UTR;
+Record(CHROM=15, POS=22443827, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2;repeat_maskerHERVL32-int;t_alt_count39;t_ref_count156;Variant_ClassificationIGR;
+Record(CHROM=19, POS=7805361, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.25;t_alt_count20;t_ref_count60;Variant_Classification3'UTR;
+28f41a20-b6d6-4ecc-888f-72f779ad9af7.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=156426364, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1805;cosmicCOSN14647554;t_alt_count24;t_ref_count109;Variant_ClassificationlincRNA;
+293a2f0a-4846-4c7c-b8b1-bb741c8d3275.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569189, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1319;cosmicCOSN17883049;t_alt_count12;t_ref_count79;Variant_ClassificationIGR;
+Record(CHROM=19, POS=41633785, REF=C, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.069;t_alt_count4;t_ref_count54;Variant_ClassificationIntron;
+Record(CHROM=5, POS=5026075, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5192;repeat_maskerLTR12F;t_alt_count27;t_ref_count25;Variant_ClassificationlincRNA;
+29548b5f-c88a-4908-8c46-e86483e75067.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=42297184, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1458;t_alt_count7;t_ref_count41;Variant_ClassificationIGR;
+2b41746a-95c0-4875-afb5-c6d3d3ad30d9.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=8, POS=142233349, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.641;t_alt_count75;t_ref_count42;Variant_ClassificationIntron;
+2b569b88-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=1893067, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5385;t_alt_count7;t_ref_count6;Variant_ClassificationRNA;
+2c48eefe-2a08-47bf-8e4d-cbaab6777150.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=111834760, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.7692;cosmicCOSN16683110;t_alt_count20;t_ref_count6;Variant_ClassificationlincRNA;
+2d0e4b82-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=72510236, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4545;cosmicCOSN6775496;t_alt_count15;t_ref_count18;Variant_ClassificationIGR;
+2e69c886-535b-4ff0-9236-abf6799acdbd.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=73700328, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.075;cosmicCOSN17390458;t_alt_count6;t_ref_count74;Variant_ClassificationIGR;
+Record(CHROM=19, POS=41633712, REF=T, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1346;cosmicCOSN14865836;t_alt_count7;t_ref_count45;Variant_ClassificationIntron;
+2e76891c-b620-4cc0-9315-6f1217b09b1e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569214, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0988;t_alt_count16;t_ref_count146;Variant_ClassificationIGR;
+Record(CHROM=6, POS=167655971, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1235;t_alt_count10;t_ref_count71;Variant_ClassificationlincRNA;
+2f149d78-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=207693335, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.7536;cosmicCOSN6020275;repeat_maskerMER57B1;t_alt_count52;t_ref_count17;Variant_ClassificationIntron;
+30376989-7edb-4863-9496-1789eccef8c4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=113502983, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2308;t_alt_count6;t_ref_count20;Variant_ClassificationIntron;
+30600994-c1ec-44c9-a620-3f6c617eb928.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=13394659, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4545;t_alt_count30;t_ref_count36;Variant_ClassificationIGR;
+Record(CHROM=11, POS=763114, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3704;t_alt_count10;t_ref_count17;Variant_ClassificationIntron;
+Record(CHROM=16, POS=33569576, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.3151;repeat_maskerMLT1J;t_alt_count23;t_ref_count50;Variant_ClassificationIGR;
+Record(CHROM=16, POS=33569782, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3864;t_alt_count17;t_ref_count27;Variant_ClassificationIGR;
+Record(CHROM=4, POS=9895217, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.3043;repeat_masker(GGGA)n;t_alt_count14;t_ref_count32;Variant_ClassificationIntron;
+Record(CHROM=8, POS=103750843, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3846;t_alt_count30;t_ref_count48;Variant_ClassificationIGR;
+Record(CHROM=X, POS=134305466, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.7917;t_alt_count19;t_ref_count5;Variant_Classification5'Flank;
+306ef5bc-97d0-4312-ae0e-343c4e31d869.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=120970625, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3913;t_alt_count18;t_ref_count28;Variant_ClassificationIntron;
+31c0c8f8-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=135879354, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4;cosmicCOSN6381454;t_alt_count6;t_ref_count9;Variant_ClassificationIGR;
+31c75873-abb4-4d88-9e2f-07497a6c892d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=137249227, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1613;cosmicCOSN16021783;t_alt_count5;t_ref_count26;Variant_ClassificationIntron;
+31f3ff14-7d74-447c-a5da-9ad8336c3f3f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=110648663, REF=C, ALT=[T])....1000genomes_AF0.00019968;1000genomes_IDrs113049400;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.253;cosmicCOSN15281977;dbsnprs113049400;t_alt_count21;t_ref_count62;Variant_ClassificationRNA;
+32fa6457-c8bd-4d26-8106-925baf13df68.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=660019, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5;cosmicCOSN16524838;repeat_maskerL1M5;t_alt_count27;t_ref_count27;Variant_ClassificationIntron;
+33070975-0f35-4518-9ffb-4c6170c32534.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=127857123, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2203;cosmicCOSN7959411;t_alt_count13;t_ref_count46;Variant_ClassificationIGR;
+339a2c94-55c9-4113-a706-b0971fa2784f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=31415703, REF=C, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.1034;t_alt_count3;t_ref_count26;Variant_ClassificationIntron;
+33a8693c-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=79154146, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1667;cosmicCOSN16452267;t_alt_count5;t_ref_count25;Variant_ClassificationIGR;
+33bcd589-80db-4a58-8f83-a48cb60e0fda.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=48334560, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0854;cosmicCOSN8243293;t_alt_count7;t_ref_count75;Variant_ClassificationIGR;
+Record(CHROM=6, POS=39193555, REF=G, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1961;cosmicCOSN7790223;t_alt_count20;t_ref_count82;Variant_ClassificationIntron;
+33bf46dd-16b3-49c6-80d7-76caf27aa0f4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=171720623, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1047;repeat_maskerLTR41;t_alt_count9;t_ref_count77;Variant_ClassificationIGR;
+35a74e53-16ff-4764-8397-6a9b02dfe733.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=651985, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3958;t_alt_count19;t_ref_count29;Variant_ClassificationIntron;
+35cca3b8-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=42297120, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.275;cosmicCOSN15736460;t_alt_count11;t_ref_count29;Variant_ClassificationIGR;
+35eb6ecf-9514-4416-94b1-02200c0a1571.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=6330291, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0612;cosmicCOSN17516312;t_alt_count6;t_ref_count92;Variant_ClassificationIntron;
+371235d9-55b8-40a7-8cd6-baa7c2ad0493.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=112151609, REF=A, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.0741;cosmicCOSN17650942;t_alt_count4;t_ref_count50;Variant_ClassificationRNA;
+Record(CHROM=11, POS=124616783, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2;cosmicCOSN14944063;t_alt_count11;t_ref_count44;Variant_Classification3'UTR;
+380593d8-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=156427362, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2143;t_alt_count3;t_ref_count11;Variant_ClassificationlincRNA;
+39c476fd-273b-4136-874c-53352f1be008.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=1956029, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3958;t_alt_count19;t_ref_count29;Variant_ClassificationIntron;
+Record(CHROM=1, POS=10750984, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3833;t_alt_count23;t_ref_count37;Variant_ClassificationIntron;
+Record(CHROM=19, POS=59092566, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4464;t_alt_count25;t_ref_count31;Variant_ClassificationRNA;
+Record(CHROM=19, POS=59092567, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4464;t_alt_count25;t_ref_count31;Variant_ClassificationRNA;
+39d38c06-3779-4ca4-b103-1d096f93dae8.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=146349692, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0923;cosmicCOSN16520939;t_alt_count6;t_ref_count59;Variant_ClassificationIntron;
+3a49a936-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569848, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4;cosmicCOSN16460345;t_alt_count8;t_ref_count12;Variant_ClassificationIGR;
+Record(CHROM=7, POS=137693687, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5;cosmicCOSN16463842;t_alt_count10;t_ref_count10;Variant_ClassificationIntron;
+3afae3fb-2d87-4724-a589-d31cce1f4c28.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=1955018, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0725;t_alt_count5;t_ref_count64;Variant_ClassificationIntron;
+Record(CHROM=10, POS=61468739, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1515;t_alt_count10;t_ref_count56;Variant_ClassificationIntron;
+3b02a7a7-e5bc-4e77-b691-521603630b00.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=51331112, REF=T, ALT=[C])....Callers['broad', 'sanger'];NumCallers2;VAF0.2174;cosmicCOSN6412899;repeat_maskerL1M2;t_alt_count5;t_ref_count18;Variant_ClassificationlincRNA;
+3b526846-72d6-4e10-b7cd-8cdb45a92a1c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=112150611, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1887;cosmicCOSN6985465;repeat_maskerAluJr4;t_alt_count10;t_ref_count43;Variant_ClassificationRNA;
+3b7810f7-f8ff-4d62-b766-3ba06170194c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=72833865, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2308;t_alt_count12;t_ref_count40;Variant_ClassificationIGR;
+Record(CHROM=6, POS=7899410, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5111;cosmicCOSN9913797;t_alt_count23;t_ref_count22;Variant_ClassificationIntron;
+3bb25b72-ceb1-4169-891e-339f22cb0f03.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=5026121, REF=C, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.0602;repeat_maskerLTR12F;t_alt_count5;t_ref_count78;Variant_ClassificationlincRNA;
+3bfbc33d-804b-4bb3-97ac-97563d77b13d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=13749272, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1798;cosmicCOSN6949830;repeat_masker(CA)n;t_alt_count16;t_ref_count73;Variant_ClassificationIntron;
+3c2b1509-1eb9-4b79-9569-57810f291499.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=4944468, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4167;cosmicCOSM3948567;t_alt_count15;t_ref_count21;Variant_ClassificationSplice_Site;
+3da169e8-844a-4eee-b794-a2eb81db779a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124617024, REF=C, ALT=[G])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.0449;t_alt_count4;t_ref_count85;Variant_Classification3'UTR;
+Record(CHROM=6, POS=39278430, REF=G, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.0455;repeat_maskerMER5A1;t_alt_count4;t_ref_count84;Variant_ClassificationIntron;
+3e68233a-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=8, POS=142233491, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'sanger'];NumCallers3;VAF0.1818;cosmicCOSN16414384;t_alt_count8;t_ref_count36;Variant_ClassificationIntron;
+3e7ccab5-5b1d-4147-b907-77cab8f0837e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=61468754, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1538;t_alt_count6;t_ref_count33;Variant_ClassificationIntron;
+3ed783cf-2248-44a1-a2a2-d6b6519b91ef.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=X, POS=129130270, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.65;cosmicCOSN16858759;t_alt_count13;t_ref_count7;Variant_ClassificationIntron;
+40378b7a-a65d-4510-aaba-a34c4058fac7.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=79206802, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1884;cosmicCOSN7994009;t_alt_count13;t_ref_count56;Variant_ClassificationIGR;
+40b1e928-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=4, POS=1506483, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.3333;repeat_maskerMER66B;t_alt_count4;t_ref_count8;Variant_ClassificationIGR;
+42629ae0-9410-4fac-8df1-2c276467deb5.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=127507386, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1852;repeat_maskerMER20B;t_alt_count15;t_ref_count66;Variant_ClassificationIGR;
+43206cb7-787d-4f68-8019-55e8585c4b4d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=23322075, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.434;cosmicCOSN5746829;t_alt_count23;t_ref_count30;Variant_ClassificationRNA;
+Record(CHROM=7, POS=73721581, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4533;cosmicCOSN5103299;t_alt_count34;t_ref_count41;Variant_ClassificationIntron;
+44083f54-0953-48e3-a704-11ad0988ad2e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=22443691, REF=G, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.0872;repeat_maskerMLT1B;t_alt_count13;t_ref_count136;Variant_ClassificationIGR;
+45348eff-4b09-4776-825e-b18de9dba937.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=61468840, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3269;cosmicCOSN10070615;t_alt_count17;t_ref_count35;Variant_ClassificationIntron;
+461df2ae-fcf1-4b93-be0a-c14954fe7c42.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=167846, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2353;t_alt_count4;t_ref_count13;Variant_ClassificationlincRNA;
+468083cb-95c3-47c1-9d96-79bcf7bf3f26.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=653722, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3469;cosmicCOSN6688710;t_alt_count17;t_ref_count32;Variant_ClassificationIntron;
+47050918-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=95178726, REF=C, ALT=[T])....1000genomes_AF0.00039936;1000genomes_IDrs572092862;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3824;cosmicCOSN15688642;dbsnprs572092862;t_alt_count13;t_ref_count21;Variant_ClassificationRNA;
+48624a82-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=106647530, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.125;t_alt_count4;t_ref_count28;Variant_ClassificationIGR;
+49795e42-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=58902835, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5238;repeat_maskerMER5A;t_alt_count11;t_ref_count10;Variant_ClassificationIntron;
+4a4309b0-2aca-4d6a-ac50-039b28406bba.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=22, POS=30112931, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2051;cosmicCOSN4784998;t_alt_count8;t_ref_count31;Variant_ClassificationRNA;
+4c027164-12de-456f-b933-6bc91f70b46f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=101072309, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4737;cosmicCOSN8139385;t_alt_count36;t_ref_count40;Variant_ClassificationIGR;
+4d72d06d-b6af-4294-9eef-6e61e067761f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=122116853, REF=T, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.1739;t_alt_count4;t_ref_count19;Variant_ClassificationIGR;
+4daa2708-d0db-40fe-a07a-763f003adcae.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616625, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.303;t_alt_count10;t_ref_count23;Variant_Classification3'UTR;
+4e7cdeda-6dc1-4f17-b853-72a68e5aa7e1.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=134801676, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1515;t_alt_count5;t_ref_count28;Variant_ClassificationIGR;
+Record(CHROM=6, POS=16266158, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4;repeat_maskerLTR12;t_alt_count14;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=7, POS=73684310, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5161;t_alt_count32;t_ref_count30;Variant_ClassificationIGR;
+Record(CHROM=7, POS=73684348, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4444;t_alt_count28;t_ref_count35;Variant_ClassificationIGR;
+4e8396f7-9506-4401-96b6-bb2e89557d59.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=101548212, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1905;repeat_maskerAluSx;t_alt_count8;t_ref_count34;Variant_ClassificationIntron;
+Record(CHROM=17, POS=42343798, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3226;t_alt_count10;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=3, POS=40424502, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4074;repeat_maskerL2a;t_alt_count22;t_ref_count32;Variant_ClassificationRNA;
+Record(CHROM=5, POS=134801647, REF=C, ALT=[T])....1000genomes_AF0.00019968;1000genomes_IDrs145022875;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2041;dbsnprs145022875;t_alt_count10;t_ref_count39;Variant_ClassificationIGR;
+5042b417-d14e-42bb-b6f3-de303346a252.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=27098074, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5902;cosmicCOSN5740334;t_alt_count36;t_ref_count25;Variant_ClassificationIntron;
+Record(CHROM=6, POS=16268129, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2327;cosmicCOSN5085428;t_alt_count37;t_ref_count122;Variant_ClassificationIntron;
+Record(CHROM=7, POS=75410204, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4286;cosmicCOSN5103363;repeat_maskerHERVH-int;t_alt_count27;t_ref_count36;Variant_ClassificationIntron;
+50b61288-1412-4104-92e6-8b1a359ef399.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=X, POS=134305343, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5789;cosmicCOSN5773618;t_alt_count11;t_ref_count8;Variant_Classification5'Flank;
+50eb58ba-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=48334864, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.5;cosmicCOSN16363564;t_alt_count6;t_ref_count6;Variant_ClassificationIGR;
+Record(CHROM=2, POS=113470009, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2143;cosmicCOSN16367467;t_alt_count6;t_ref_count22;Variant_ClassificationIGR;
+51800588-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=6927360, REF=T, ALT=[C])....Callers['broad', 'sanger'];NumCallers2;VAF0.5;t_alt_count3;t_ref_count3;Variant_ClassificationIntron;
+51893d3f-e7f3-43f9-9fd0-c0f25ae96804.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=29460439, REF=C, ALT=[T])....1000genomes_AF0.0015974;1000genomes_IDrs567085745;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4216;dbsnprs567085745;t_alt_count43;t_ref_count59;Variant_ClassificationIGR;
+Record(CHROM=1, POS=65743816, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3364;t_alt_count36;t_ref_count71;Variant_ClassificationIntron;
+Record(CHROM=1, POS=208167139, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4949;t_alt_count49;t_ref_count50;Variant_ClassificationIGR;
+Record(CHROM=12, POS=122675547, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2714;t_alt_count19;t_ref_count51;Variant_ClassificationIntron;
+Record(CHROM=16, POS=33569770, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.245;t_alt_count37;t_ref_count114;Variant_ClassificationIGR;
+Record(CHROM=20, POS=37294930, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1538;t_alt_count22;t_ref_count121;Variant_ClassificationIGR;
+Record(CHROM=21, POS=36173981, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.27;t_alt_count27;t_ref_count73;Variant_ClassificationIntron;
+Record(CHROM=3, POS=196064509, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.5966;repeat_maskerMER50;t_alt_count71;t_ref_count48;Variant_ClassificationIntron;
+Record(CHROM=4, POS=84014400, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8036;repeat_maskerLTR33;t_alt_count45;t_ref_count11;Variant_Classification3'UTR;
+Record(CHROM=9, POS=135860031, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8305;t_alt_count49;t_ref_count10;Variant_ClassificationIntron;
+51b25b37-f75c-4380-a0f6-5273e0b7ee33.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=5377605, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.7368;cosmicCOSN15478367;repeat_maskerL2a;t_alt_count14;t_ref_count5;Variant_ClassificationIGR;
+Record(CHROM=X, POS=134305047, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.549;cosmicCOSM3230965;dbsnprs782523634;t_alt_count28;t_ref_count23;Variant_ClassificationMissense_Mutation;
+532bec86-b8d3-41a1-ba17-913a7d378f66.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=110648802, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2879;t_alt_count19;t_ref_count47;Variant_ClassificationRNA;
+Record(CHROM=10, POS=13749456, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1774;t_alt_count22;t_ref_count102;Variant_ClassificationIntron;
+53534b3c-cd15-4d68-a9b1-6902bb234c45.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=91173327, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.359;cosmicCOSN6952186;t_alt_count28;t_ref_count50;Variant_ClassificationIGR;
+53e6a756-bdcc-4217-afe7-27d776159544.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=7805055, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3333;repeat_maskerLTR45B;t_alt_count23;t_ref_count46;Variant_Classification3'UTR;
+54195db3-94a9-4538-8bb8-9953d936acd4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=65663350, REF=C, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.1081;repeat_maskerGC_rich;t_alt_count4;t_ref_count33;Variant_ClassificationlincRNA;
+Record(CHROM=21, POS=46808722, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3019;cosmicCOSN17200748;repeat_maskerLTR33;t_alt_count16;t_ref_count37;Variant_ClassificationIGR;
+54319e3d-c28f-4ba1-9c87-299d303e4de3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=167749, REF=G, ALT=[A])....Callers['dkfz', 'sanger'];NumCallers2;Variant_ClassificationlincRNA;
+54354d24-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=110649199, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4;cosmicCOSN5998357;t_alt_count10;t_ref_count15;Variant_ClassificationRNA;
+Record(CHROM=2, POS=47210786, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2632;t_alt_count5;t_ref_count14;Variant_ClassificationIntron;
+55e5497a-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=7217222, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4138;t_alt_count12;t_ref_count17;Variant_ClassificationIntron;
+561fd34c-7c7d-4df0-bbfc-3d31147ca562.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=78642683, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.7778;t_alt_count14;t_ref_count4;Variant_ClassificationIGR;
+Record(CHROM=7, POS=66022598, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5128;t_alt_count20;t_ref_count19;Variant_ClassificationIGR;
+Record(CHROM=X, POS=153780825, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4483;t_alt_count13;t_ref_count16;Variant_ClassificationIntron;
+569393c8-e2fe-4580-a45b-81f1b1e01135.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=86029358, REF=C, ALT=[G])....1000genomes_AF0.0009984;1000genomes_IDrs145250419;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.131;dbsnprs145250419;t_alt_count11;t_ref_count73;Variant_ClassificationIntron;
+Record(CHROM=21, POS=46808734, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1591;repeat_maskerLTR33;t_alt_count7;t_ref_count37;Variant_ClassificationIGR;
+56c846d6-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=21, POS=46808880, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1364;t_alt_count3;t_ref_count19;Variant_ClassificationIGR;
+56cc8740-b132-4cbc-b513-f0b5b2305ca6.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=30198454, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2653;t_alt_count13;t_ref_count36;Variant_ClassificationSilent;
+5912d4b3-2d5d-4b98-b967-1b4ff177097a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=55735801, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1429;t_alt_count3;t_ref_count18;Variant_ClassificationIGR;
+Record(CHROM=2, POS=113470580, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.1111;t_alt_count3;t_ref_count24;Variant_ClassificationIGR;
+59632e7e-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=13749334, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.52;cosmicCOSN5281205;t_alt_count26;t_ref_count24;Variant_ClassificationIntron;
+Record(CHROM=12, POS=111834822, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5484;cosmicCOSN5315482;t_alt_count17;t_ref_count14;Variant_ClassificationlincRNA;
+Record(CHROM=12, POS=111834823, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5806;cosmicCOSN5315483;t_alt_count18;t_ref_count13;Variant_ClassificationlincRNA;
+59938f45-3e57-43d6-af3b-bb4968249e5a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=101072726, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3269;cosmicCOSN16973768;t_alt_count17;t_ref_count35;Variant_ClassificationIGR;
+5a51a6fc-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=196064547, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1875;cosmicCOSN5532071;repeat_maskerMER50;t_alt_count6;t_ref_count26;Variant_ClassificationIntron;
+5b41e033-6df8-411e-a13b-59eeb8afbf9b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=42821238, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.25;cosmicCOSN7445694;t_alt_count20;t_ref_count60;Variant_ClassificationIntron;
+5c3def3a-b515-41f6-8157-681b963534e7.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=46988079, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1154;repeat_maskerMIRb;t_alt_count6;t_ref_count46;Variant_ClassificationIGR;
+Record(CHROM=1, POS=207693233, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.3137;repeat_maskerMER57B1;t_alt_count16;t_ref_count35;Variant_ClassificationIntron;
+Record(CHROM=10, POS=72498483, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.1081;repeat_maskerMIRb;t_alt_count4;t_ref_count33;Variant_ClassificationIntron;
+Record(CHROM=10, POS=72498484, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.1081;repeat_maskerMIRb;t_alt_count4;t_ref_count33;Variant_ClassificationIntron;
+Record(CHROM=10, POS=73507701, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2;t_alt_count7;t_ref_count28;Variant_Classification3'UTR;
+Record(CHROM=12, POS=113503340, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.25;repeat_maskerC-rich;t_alt_count6;t_ref_count18;Variant_ClassificationIntron;
+Record(CHROM=12, POS=122116922, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2571;t_alt_count9;t_ref_count26;Variant_ClassificationIGR;
+Record(CHROM=14, POS=103571945, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1458;t_alt_count7;t_ref_count41;Variant_ClassificationIntron;
+Record(CHROM=17, POS=42343924, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3784;repeat_maskerMIRb;t_alt_count14;t_ref_count23;Variant_ClassificationIntron;
+Record(CHROM=19, POS=18896880, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2222;dbsnprs375476152;t_alt_count6;t_ref_count21;Variant_ClassificationMissense_Mutation;
+Record(CHROM=2, POS=79206920, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3529;t_alt_count12;t_ref_count22;Variant_ClassificationIGR;
+Record(CHROM=20, POS=37295033, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2927;t_alt_count12;t_ref_count29;Variant_ClassificationIGR;
+Record(CHROM=20, POS=49095068, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2203;repeat_maskerLTR1;t_alt_count13;t_ref_count46;Variant_ClassificationIGR;
+Record(CHROM=3, POS=40424400, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.225;repeat_maskerMER70C;t_alt_count9;t_ref_count31;Variant_ClassificationRNA;
+Record(CHROM=3, POS=140617372, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2857;t_alt_count12;t_ref_count30;Variant_ClassificationIGR;
+Record(CHROM=5, POS=1892984, REF=C, ALT=[T])....1000genomes_AF0.00039936;1000genomes_IDrs149937316;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2619;dbsnprs149937316;t_alt_count11;t_ref_count31;Variant_ClassificationRNA;
+Record(CHROM=9, POS=129466900, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.12;t_alt_count3;t_ref_count22;Variant_ClassificationIGR;
+Record(CHROM=9, POS=135860279, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1765;t_alt_count6;t_ref_count28;Variant_ClassificationIntron;
+Record(CHROM=9, POS=135878440, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1569;t_alt_count8;t_ref_count43;Variant_ClassificationIGR;
+Record(CHROM=9, POS=135879684, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1379;t_alt_count4;t_ref_count25;Variant_ClassificationIGR;
+5c9b8a2c-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=22444076, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1545;repeat_maskerHERVL32-int;t_alt_count19;t_ref_count104;Variant_ClassificationIGR;
+5cf21488-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=102844042, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4;cosmicCOSN1774529;t_alt_count6;t_ref_count9;Variant_ClassificationIntron;
+5f53bcda-2fd3-4574-9cc2-5efe353372b2.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=202113374, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.1786;cosmicCOSN19003046;t_alt_count5;t_ref_count23;Variant_ClassificationIntron;
+5fd632ea-085e-4e9b-8dcc-ec94e492d3bf.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124617226, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3485;t_alt_count23;t_ref_count43;Variant_ClassificationIGR;
+6012cb02-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=127507379, REF=A, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2059;cosmicCOSN16303515;repeat_maskerMER20B;t_alt_count7;t_ref_count27;Variant_ClassificationIGR;
+603594e3-e427-494c-b9ee-e872d6629563.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=59092684, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1728;t_alt_count14;t_ref_count67;Variant_ClassificationRNA;
+60413de1-6cd2-4f74-8180-3bdd394d6d16.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=37876515, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4306;t_alt_count31;t_ref_count41;Variant_ClassificationIGR;
+Record(CHROM=1, POS=226116101, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3026;t_alt_count23;t_ref_count53;Variant_ClassificationIGR;
+Record(CHROM=11, POS=61300115, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2712;t_alt_count16;t_ref_count43;Variant_ClassificationIntron;
+Record(CHROM=11, POS=112151459, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6957;t_alt_count16;t_ref_count7;Variant_ClassificationRNA;
+Record(CHROM=12, POS=111835380, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4054;repeat_maskerMIR;t_alt_count15;t_ref_count22;Variant_ClassificationlincRNA;
+Record(CHROM=12, POS=132403239, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4783;t_alt_count11;t_ref_count12;Variant_ClassificationIntron;
+Record(CHROM=16, POS=1144175, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4259;repeat_maskerMIRc;t_alt_count23;t_ref_count31;Variant_ClassificationIntron;
+Record(CHROM=16, POS=33569762, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2095;t_alt_count22;t_ref_count83;Variant_ClassificationIGR;
+Record(CHROM=16, POS=85090126, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4043;t_alt_count19;t_ref_count28;Variant_ClassificationIntron;
+Record(CHROM=17, POS=6926906, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2237;t_alt_count17;t_ref_count59;Variant_ClassificationIntron;
+Record(CHROM=19, POS=5377605, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6111;cosmicCOSN15478367;repeat_maskerL2a;t_alt_count22;t_ref_count14;Variant_ClassificationIGR;
+Record(CHROM=19, POS=5377753, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4909;repeat_maskerL2a;t_alt_count27;t_ref_count28;Variant_ClassificationIGR;
+Record(CHROM=2, POS=65662953, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4394;t_alt_count29;t_ref_count37;Variant_ClassificationlincRNA;
+Record(CHROM=2, POS=79206853, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs552095833;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2708;dbsnprs552095833;t_alt_count26;t_ref_count70;Variant_ClassificationIGR;
+Record(CHROM=20, POS=37294519, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1954;repeat_maskerL2a;t_alt_count17;t_ref_count70;Variant_ClassificationIGR;
+Record(CHROM=3, POS=40424221, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2143;repeat_maskerMER70C;t_alt_count18;t_ref_count66;Variant_ClassificationRNA;
+Record(CHROM=5, POS=63908239, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4143;t_alt_count29;t_ref_count41;Variant_ClassificationIGR;
+Record(CHROM=5, POS=134801851, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4048;t_alt_count17;t_ref_count25;Variant_ClassificationIGR;
+Record(CHROM=5, POS=134801995, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3958;t_alt_count19;t_ref_count29;Variant_ClassificationIGR;
+Record(CHROM=6, POS=167655843, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.1111;t_alt_count5;t_ref_count40;Variant_ClassificationlincRNA;
+Record(CHROM=7, POS=150694182, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.675;t_alt_count27;t_ref_count13;Variant_ClassificationIntron;
+60525b38-c34b-479b-86d3-013c7e567b8f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=34308993, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.35;t_alt_count14;t_ref_count26;Variant_ClassificationIGR;
+Record(CHROM=3, POS=138136540, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.7273;t_alt_count48;t_ref_count18;Variant_ClassificationIGR;
+Record(CHROM=5, POS=141566793, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2597;t_alt_count20;t_ref_count57;Variant_ClassificationIGR;
+60aff7a0-4960-4ed1-922b-3233ccbfdba1.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=X, POS=134305180, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3125;cosmicCOSN14625552;t_alt_count15;t_ref_count33;Variant_ClassificationDe_novo_Start_OutOfFrame;
+61a48c69-4f7d-4dc6-aff7-88a6c33137df.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=10207104, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3279;cosmicCOSM4880324;t_alt_count20;t_ref_count41;Variant_ClassificationMissense_Mutation;
+632f3eb0-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=13749905, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.381;t_alt_count8;t_ref_count13;Variant_ClassificationIntron;
+63762458-902a-4329-a823-703b54cb5f9d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=37876669, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.102;t_alt_count10;t_ref_count88;Variant_ClassificationIGR;
+Record(CHROM=12, POS=106530143, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1829;t_alt_count15;t_ref_count67;Variant_ClassificationIntron;
+Record(CHROM=15, POS=101549170, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.0577;t_alt_count6;t_ref_count98;Variant_ClassificationSilent;
+Record(CHROM=15, POS=102018056, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0507;t_alt_count7;t_ref_count131;Variant_ClassificationIntron;
+Record(CHROM=16, POS=30198725, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1034;cosmicCOSM3508765;t_alt_count9;t_ref_count78;Variant_ClassificationMissense_Mutation;
+Record(CHROM=19, POS=10806949, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2241;repeat_maskerL2a;t_alt_count13;t_ref_count45;Variant_ClassificationIGR;
+Record(CHROM=2, POS=112074733, REF=C, ALT=[T])....Callers['muse', 'sanger'];NumCallers2;VAF0.1667;t_alt_count8;t_ref_count40;Variant_ClassificationIGR;
+Record(CHROM=20, POS=37295489, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1091;t_alt_count12;t_ref_count98;Variant_ClassificationIGR;
+Record(CHROM=7, POS=73721412, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3026;t_alt_count23;t_ref_count53;Variant_ClassificationIntron;
+Record(CHROM=9, POS=91419308, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1646;t_alt_count13;t_ref_count66;Variant_ClassificationIGR;
+63a907ff-1042-4f9c-a385-55a32b3e103b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=652492, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2609;cosmicCOSN16711377;t_alt_count18;t_ref_count51;Variant_ClassificationIntron;
+64623aaa-a274-4baa-8b71-958d9c8df733.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616774, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2222;cosmicCOSN15059030;t_alt_count14;t_ref_count49;Variant_Classification3'UTR;
+6495e68e-1434-45d3-a03d-f286447dda79.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=13749754, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3375;cosmicCOSN14939213;t_alt_count27;t_ref_count53;Variant_ClassificationIntron;
+64b80154-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616563, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.7;t_alt_count7;t_ref_count3;Variant_Classification3'UTR;
+650fe009-da01-4717-89df-9c95fafe3d7e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=31711881, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3182;cosmicCOSN4750080;t_alt_count7;t_ref_count15;Variant_ClassificationIntron;
+6527aa5a-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=37295283, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1765;cosmicCOSN1871175;t_alt_count3;t_ref_count14;Variant_ClassificationIGR;
+6622f932-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=155149466, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3333;cosmicCOSN2211920;t_alt_count10;t_ref_count20;Variant_ClassificationIGR;
+66290cc6-1f1f-4a0b-83d1-423952da4840.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=99820140, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0682;cosmicCOSN7812520;t_alt_count6;t_ref_count82;Variant_ClassificationIGR;
+669f0e01-28f6-4ed8-bdb5-73f84ea28f78.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=75410403, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2449;cosmicCOSN15541460;repeat_maskerHERVH-int;t_alt_count12;t_ref_count37;Variant_ClassificationIntron;
+674819dc-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=106576988, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1667;repeat_maskerTigger15a;t_alt_count5;t_ref_count25;Variant_ClassificationIGR;
+Record(CHROM=6, POS=106576992, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1786;repeat_maskerTigger15a;t_alt_count5;t_ref_count23;Variant_ClassificationIGR;
+675a5a32-b405-4f03-bfcd-756343d1dfaf.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=91172526, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2063;cosmicCOSN10056028;t_alt_count13;t_ref_count50;Variant_ClassificationIGR;
+681e2301-2057-40e4-ab63-934775d63faa.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569567, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1807;repeat_maskerMLT1J;t_alt_count15;t_ref_count68;Variant_ClassificationIGR;
+Record(CHROM=16, POS=33569672, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2262;t_alt_count19;t_ref_count65;Variant_ClassificationIGR;
+Record(CHROM=16, POS=85470503, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4231;t_alt_count11;t_ref_count15;Variant_ClassificationIGR;
+Record(CHROM=21, POS=38905771, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4;t_alt_count34;t_ref_count51;Variant_ClassificationIGR;
+Record(CHROM=3, POS=44278280, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.375;t_alt_count39;t_ref_count65;Variant_ClassificationIGR;
+Record(CHROM=5, POS=79154151, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3676;t_alt_count25;t_ref_count43;Variant_ClassificationIGR;
+Record(CHROM=9, POS=135879396, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6;t_alt_count30;t_ref_count20;Variant_ClassificationIGR;
+6821446e-8e76-46fe-b0b9-47feb46d2585.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=37876718, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1414;cosmicCOSN8468511;t_alt_count14;t_ref_count85;Variant_ClassificationIGR;
+68509ede-3dcf-4a6e-9af0-4a9bb4dfa567.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=18, POS=34152367, REF=C, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.0811;t_alt_count3;t_ref_count34;Variant_ClassificationIntron;
+Record(CHROM=X, POS=134305047, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4211;cosmicCOSM3230965;dbsnprs782523634;t_alt_count8;t_ref_count11;Variant_ClassificationMissense_Mutation;
+69c3c88c-d51e-4e03-b96b-ec4f1a0faa2d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=61299704, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3735;cosmicCOSN16948216;t_alt_count31;t_ref_count52;Variant_ClassificationIntron;
+69dbe6ef-f5de-4c1f-b2f2-963dcb6ccd3e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=106529987, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2769;cosmicCOSN17026957;t_alt_count18;t_ref_count47;Variant_ClassificationIntron;
+69f37546-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=22, POS=23501793, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5455;cosmicCOSN1895561;t_alt_count6;t_ref_count5;Variant_ClassificationIntron;
+6a0d0c42-1884-4c6a-936a-678a822c0936.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=91172628, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1622;t_alt_count12;t_ref_count62;Variant_ClassificationIGR;
+6b20f942-7b89-497c-8a2e-ccce74d20ca9.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=22444023, REF=T, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1935;cosmicCOSN8170819;repeat_maskerHERVL32-int;t_alt_count18;t_ref_count75;signature_N3True;Variant_ClassificationIGR;
+6baee028-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=99819998, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4242;cosmicCOSN2335114;t_alt_count14;t_ref_count19;Variant_ClassificationIGR;
+6c306cbe-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=15353499, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4167;t_alt_count5;t_ref_count7;Variant_ClassificationIntron;
+6c8f3dc9-21bf-4859-9599-231ac040eb7d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=135879225, REF=G, ALT=[A])....1000genomes_AF0.0065895;1000genomes_IDrs374286016;Callers['broad', 'muse'];NumCallers2;VAF0.0526;dbsnprs374286016;repeat_maskerL2b;t_alt_count3;t_ref_count54;Variant_ClassificationIGR;
+6d325c96-8f5c-4064-9806-4364016da8a4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=5026089, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.1026;repeat_maskerLTR12F;t_alt_count4;t_ref_count35;Variant_ClassificationlincRNA;
+6d9d7ffc-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=1955052, REF=G, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.5455;cosmicCOSN5362602;t_alt_count6;t_ref_count5;Variant_ClassificationIntron;
+6e26f98e-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=4944507, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2667;dbsnprs200405265;t_alt_count4;t_ref_count11;Variant_ClassificationMissense_Mutation;
+6e776415-ddf4-4060-953f-08ef22441234.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=65743627, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1484;repeat_maskerLTR36;t_alt_count27;t_ref_count155;Variant_ClassificationIntron;
+Record(CHROM=6, POS=39277523, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2754;cosmicCOSN16700436;t_alt_count19;t_ref_count50;Variant_ClassificationIntron;
+6ff16b0d-5966-4119-9bec-c9ebff804a37.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=85470301, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.1765;t_alt_count3;t_ref_count14;Variant_ClassificationIGR;
+7117854b-6f0a-4a43-b66c-506a3e29377d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=226116114, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4533;t_alt_count34;t_ref_count41;Variant_ClassificationIGR;
+Record(CHROM=15, POS=22444030, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2824;repeat_maskerHERVL32-int;t_alt_count24;t_ref_count61;Variant_ClassificationIGR;
+71982a1b-52a4-440f-bd5d-62a0e6cc7fd9.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=42820758, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'sanger'];NumCallers3;VAF0.3043;t_alt_count7;t_ref_count16;Variant_ClassificationIntron;
+72108583-5320-46ec-945f-5ff173d7dc15.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=110649314, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2368;t_alt_count9;t_ref_count29;Variant_ClassificationRNA;
+Record(CHROM=1, POS=156426462, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.44;t_alt_count33;t_ref_count42;Variant_ClassificationlincRNA;
+Record(CHROM=10, POS=94516433, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1304;t_alt_count6;t_ref_count40;Variant_ClassificationIGR;
+Record(CHROM=11, POS=112151505, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4545;t_alt_count15;t_ref_count18;Variant_ClassificationRNA;
+Record(CHROM=16, POS=58530440, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2162;t_alt_count8;t_ref_count29;Variant_ClassificationIntron;
+Record(CHROM=2, POS=65663496, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1923;t_alt_count5;t_ref_count21;Variant_ClassificationlincRNA;
+Record(CHROM=2, POS=65663497, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1923;t_alt_count5;t_ref_count21;Variant_ClassificationlincRNA;
+724bf2b8-a246-4b6f-85f8-95824c03896e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=102844269, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2121;t_alt_count14;t_ref_count52;Variant_ClassificationIntron;
+Record(CHROM=2, POS=102844272, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2239;t_alt_count15;t_ref_count52;Variant_ClassificationIntron;
+Record(CHROM=5, POS=676337, REF=G, ALT=[A])....1000genomes_AF0.00039936;1000genomes_IDrs111292652;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1549;dbsnprs111292652;t_alt_count11;t_ref_count60;Variant_ClassificationIntron;
+Record(CHROM=8, POS=143571253, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1818;t_alt_count12;t_ref_count54;Variant_ClassificationIntron;
+7260f57c-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=139119421, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.2558;cosmicCOSN16335004;t_alt_count11;t_ref_count32;Variant_ClassificationIGR;
+72a5e569-99d4-47bc-be1b-6296a5025080.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=150693614, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.26;cosmicCOSM3394610;t_alt_count13;t_ref_count37;Variant_ClassificationMissense_Mutation;
+7410c00d-ed0b-48dc-a4bf-eb76ac613980.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=106530157, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.434;cosmicCOSN7308691;t_alt_count23;t_ref_count30;Variant_ClassificationIntron;
+Record(CHROM=6, POS=44169557, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5797;cosmicCOSN7883663;repeat_maskerMIR;t_alt_count40;t_ref_count29;Variant_ClassificationIGR;
+74e5905f-6350-498a-9454-9ea0593d2f56.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=72510073, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1231;t_alt_count8;t_ref_count57;signature_R2True;Variant_ClassificationIGR;
+75cd90ef-e884-4812-bbf3-5a524d95147e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=65663109, REF=A, ALT=[G])....1000genomes_AF0.0;1000genomes_IDrs541280453;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2889;cosmicCOSN16624802;dbsnprs541280453;t_alt_count13;t_ref_count32;Variant_ClassificationlincRNA;
+760881cc-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=18, POS=46449667, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5143;cosmicCOSN6125486;t_alt_count18;t_ref_count17;Variant_ClassificationIntron;
+Record(CHROM=18, POS=56435828, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5217;cosmicCOSN6128849;t_alt_count12;t_ref_count11;Variant_ClassificationIGR;
+Record(CHROM=2, POS=47210904, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.3226;cosmicCOSN6183435;repeat_maskerMER58A;t_alt_count10;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=2, POS=65663473, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5238;cosmicCOSN6190488;t_alt_count11;t_ref_count10;Variant_ClassificationlincRNA;
+Record(CHROM=2, POS=106013375, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4483;cosmicCOSN6150658;t_alt_count13;t_ref_count16;Variant_Classification5'UTR;
+Record(CHROM=2, POS=106014005, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3947;cosmicCOSN6150659;t_alt_count15;t_ref_count23;Variant_ClassificationIntron;
+Record(CHROM=20, POS=51797802, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3462;cosmicCOSN5973883;repeat_maskerL2a;t_alt_count9;t_ref_count17;Variant_ClassificationIntron;
+Record(CHROM=3, POS=44481652, REF=A, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.25;cosmicCOSN6768607;repeat_maskerLTR50;t_alt_count4;t_ref_count12;Variant_Classification3'UTR;
+Record(CHROM=7, POS=25891353, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4242;t_alt_count14;t_ref_count19;Variant_ClassificationIGR;
+Record(CHROM=7, POS=100485395, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4444;cosmicCOSM3745423;dbsnprs371033958;t_alt_count16;t_ref_count20;Variant_ClassificationSilent;
+Record(CHROM=7, POS=120970789, REF=A, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.35;repeat_masker(A)n;t_alt_count7;t_ref_count13;Variant_ClassificationIntron;
+Record(CHROM=9, POS=126597681, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.375;cosmicCOSN6379641;t_alt_count15;t_ref_count25;Variant_ClassificationIntron;
+764ded9e-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=73507940, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4545;cosmicCOSN5290437;t_alt_count5;t_ref_count6;Variant_Classification3'UTR;
+76a0d9c9-5e69-44e8-9ed2-6d2e387803fc.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=29460907, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4118;t_alt_count7;t_ref_count10;Variant_ClassificationIGR;
+Record(CHROM=2, POS=55394537, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2632;t_alt_count10;t_ref_count28;Variant_ClassificationIGR;
+Record(CHROM=20, POS=45989777, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1818;t_alt_count6;t_ref_count27;Variant_ClassificationIGR;
+Record(CHROM=20, POS=49094975, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2051;repeat_maskerLTR1;t_alt_count8;t_ref_count31;Variant_ClassificationIGR;
+Record(CHROM=7, POS=137693768, REF=A, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.0909;t_alt_count4;t_ref_count40;Variant_ClassificationIntron;
+78103d9b-0b8a-431e-bb58-5c99fbea12e4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=156427015, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.08;t_alt_count6;t_ref_count69;Variant_ClassificationlincRNA;
+Record(CHROM=10, POS=73508776, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0984;t_alt_count6;t_ref_count55;Variant_Classification3'UTR;
+Record(CHROM=2, POS=106013594, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3673;t_alt_count18;t_ref_count31;Variant_ClassificationIntron;
+7866dfb2-46b3-42b4-905b-12f80593d6bd.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=64917886, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5424;cosmicCOSN15072867;t_alt_count32;t_ref_count27;Variant_ClassificationIGR;
+78bd2aa8-e5f6-4b4b-96f0-d406fbdbcee8.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=35050346, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2963;repeat_maskerL2b;t_alt_count8;t_ref_count19;Variant_ClassificationIntron;
+79353875-9d86-4063-a8ea-1d998acb1e81.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=9589437, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3333;t_alt_count19;t_ref_count38;Variant_ClassificationIGR;
+79fa8423-2014-4536-a1f9-cb48aed3c45f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=7899931, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2973;cosmicCOSN9913798;t_alt_count11;t_ref_count26;Variant_ClassificationIntron;
+7a4f6014-f7a2-459b-bc43-df164e73cbba.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=202113450, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1343;repeat_maskerL1M5;t_alt_count9;t_ref_count58;Variant_ClassificationIntron;
+7adcea71-1aed-450c-b0ff-b9d9820c6153.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=13394574, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2268;t_alt_count22;t_ref_count75;Variant_ClassificationIGR;
+Record(CHROM=16, POS=29888102, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4048;t_alt_count17;t_ref_count25;Variant_ClassificationSilent;
+7c405ca0-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=19217054, REF=G, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.3333;cosmicCOSN1761875;dbsnprs758951143;t_alt_count4;t_ref_count8;Variant_ClassificationIntron;
+7c477f01-8000-49dc-a692-e47fc15e0b4f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=49094948, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4884;cosmicCOSN8995517;repeat_maskerLTR1;t_alt_count21;t_ref_count22;Variant_ClassificationIGR;
+7c5c2293-3f40-4ae3-8346-6a327b2abf4d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=653235, REF=A, ALT=[C])....Callers['broad', 'muse'];NumCallers2;VAF0.25;t_alt_count9;t_ref_count27;Variant_ClassificationIntron;
+Record(CHROM=5, POS=5026293, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1;t_alt_count12;t_ref_count108;Variant_ClassificationlincRNA;
+7cd7fe38-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=155137928, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.125;t_alt_count4;t_ref_count28;Variant_ClassificationIGR;
+7e22401d-f4cd-44c5-8a01-b08a439e5a31.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=152569466, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.425;t_alt_count17;t_ref_count23;Variant_ClassificationIGR;
+7eb0ee38-fbe2-49ea-ba63-aa13825eca6e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=652878, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3125;cosmicCOSN6688709;t_alt_count10;t_ref_count22;Variant_ClassificationIntron;
+7f795952-c623-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=106013519, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.7586;t_alt_count22;t_ref_count7;Variant_ClassificationIntron;
+80ebcecc-4a7a-40dd-914c-f0648a58095f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=65664241, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4344;cosmicCOSN5031367;t_alt_count53;t_ref_count69;Variant_ClassificationlincRNA;
+8282283d-247a-431d-9421-0fcc52f0a897.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=22443672, REF=G, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1759;cosmicCOSN17209964;repeat_maskerMLT1B;t_alt_count35;t_ref_count164;Variant_ClassificationIGR;
+82b8cda8-fbff-455e-b0db-7ff6528bd6c8.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=30102539, REF=A, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1316;cosmicCOSN4868961;t_alt_count5;t_ref_count33;Variant_ClassificationIntron;
+83a1b304-2ec1-44ae-a9c5-8ad3a2a46a1f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=13749316, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.125;t_alt_count6;t_ref_count42;Variant_ClassificationIntron;
+Record(CHROM=10, POS=13749855, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.0909;t_alt_count5;t_ref_count50;Variant_ClassificationIntron;
+8454fe53-869d-41c8-b0c8-a7929d00eec3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=35050046, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3729;cosmicCOSN7090223;repeat_maskerL2b;t_alt_count22;t_ref_count37;Variant_ClassificationIntron;
+Record(CHROM=9, POS=135879939, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4906;cosmicCOSN7558392;t_alt_count26;t_ref_count27;Variant_ClassificationIGR;
+84a6ea88-eeb8-4060-a90c-e4abac013ad4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=91172216, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs528345431;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4483;cosmicCOSN6952185;dbsnprs528345431;t_alt_count13;t_ref_count16;Variant_ClassificationIGR;
+Record(CHROM=1, POS=160163417, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0938;cosmicCOSN7180507;t_alt_count3;t_ref_count29;Variant_ClassificationIntron;
+84ae4dd8-f661-46aa-9892-69742e2f3542.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=127857244, REF=G, ALT=[A])....1000genomes_AF0.00039936;1000genomes_IDrs528191209;Callers['broad', 'muse'];NumCallers2;VAF0.0741;dbsnprs528191209;t_alt_count4;t_ref_count50;Variant_ClassificationIGR;
+858631eb-4e91-4aad-809c-c3948519313d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=85470811, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.1304;t_alt_count3;t_ref_count20;Variant_ClassificationIGR;
+Record(CHROM=6, POS=106577045, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6571;t_alt_count23;t_ref_count12;Variant_ClassificationIGR;
+8659a35e-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=198650981, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5789;cosmicCOSN5363107;t_alt_count44;t_ref_count32;Variant_ClassificationIntron;
+87671312-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=42366009, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.375;cosmicCOSN1719920;repeat_maskerL2b;t_alt_count12;t_ref_count20;Variant_ClassificationRNA;
+89195d56-1ef2-41df-b200-9f18e38f574a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569725, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3269;cosmicCOSN15989852;t_alt_count17;t_ref_count35;Variant_ClassificationIGR;
+897ba508-d74b-46bf-8554-1210a66a36d1.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=72498796, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5455;dbsnprs763355483;t_alt_count12;t_ref_count10;Variant_ClassificationIntron;
+Record(CHROM=10, POS=72834114, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5263;t_alt_count10;t_ref_count9;Variant_ClassificationIGR;
+Record(CHROM=7, POS=66023117, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2903;t_alt_count9;t_ref_count22;Variant_ClassificationIGR;
+Record(CHROM=9, POS=135878685, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.381;t_alt_count16;t_ref_count26;Variant_ClassificationIGR;
+8a2580c3-9c89-4cb0-b94d-3eca15dac1c3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=16266185, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs548673243;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1742;cosmicCOSN5085427;dbsnprs548673243;repeat_maskerLTR12;t_alt_count23;t_ref_count109;Variant_ClassificationIntron;
+Record(CHROM=9, POS=135879982, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1625;t_alt_count13;t_ref_count67;Variant_ClassificationIGR;
+8b0c4c91-2d07-4a9b-97a1-d2bda003437e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=65663878, REF=C, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.093;t_alt_count4;t_ref_count39;Variant_ClassificationlincRNA;
+8c0a7dfa-6ec3-4262-b718-c3605722df37.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=41788522, REF=C, ALT=[T])....Callers['dkfz', 'muse', 'sanger'];NumCallers3;VAF0.1591;t_alt_count7;t_ref_count37;Variant_ClassificationIntron;
+Record(CHROM=20, POS=60493738, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs536592194;Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1333;dbsnprs536592194;t_alt_count8;t_ref_count52;Variant_ClassificationIntron;
+8ca665f8-fe78-48bf-8c0f-c606d92885d4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=22487815, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2192;repeat_maskerMER115;t_alt_count16;t_ref_count57;Variant_ClassificationIGR;
+Record(CHROM=11, POS=44815395, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3824;t_alt_count26;t_ref_count42;Variant_ClassificationIntron;
+Record(CHROM=11, POS=117883172, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8519;t_alt_count23;t_ref_count4;Variant_ClassificationIGR;
+Record(CHROM=16, POS=3854586, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4362;t_alt_count41;t_ref_count53;Variant_ClassificationIntron;
+Record(CHROM=20, POS=35050448, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2473;t_alt_count23;t_ref_count70;Variant_ClassificationIntron;
+Record(CHROM=6, POS=106577033, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.587;t_alt_count27;t_ref_count19;Variant_ClassificationIGR;
+Record(CHROM=6, POS=158973804, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.7073;t_alt_count29;t_ref_count12;Variant_ClassificationIntron;
+Record(CHROM=7, POS=155137740, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2333;t_alt_count14;t_ref_count46;Variant_ClassificationIGR;
+8cbd1752-7eea-46d3-8623-09e96dfb1fdf.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=1107018, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4839;repeat_maskerMER4A;t_alt_count30;t_ref_count32;Variant_ClassificationIntron;
+8d7592e2-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=31415066, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5;cosmicCOSN1697263;t_alt_count8;t_ref_count8;Variant_ClassificationIntron;
+Record(CHROM=20, POS=62777077, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3455;repeat_maskerMamGypLTR3;t_alt_count19;t_ref_count36;Variant_ClassificationIGR;
+8ff9b1b6-a498-47fe-a970-ab7cfb64e653.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=45501628, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2656;cosmicCOSN17831338;t_alt_count17;t_ref_count47;Variant_ClassificationIntron;
+Record(CHROM=1, POS=45501637, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2424;cosmicCOSN17838409;t_alt_count16;t_ref_count50;Variant_ClassificationIntron;
+Record(CHROM=5, POS=676625, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1;cosmicCOSN17834951;t_alt_count7;t_ref_count63;Variant_ClassificationIntron;
+9078333d-73d3-496a-9fc3-a94353b7e107.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=153737037, REF=C, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.6222;cosmicCOSN15859134;t_alt_count28;t_ref_count17;Variant_ClassificationIntron;
+90b3c237-29a4-48b3-90b3-9f2c0ccb5928.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=31606957, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.6714;cosmicCOSM3784512;dbsnprs773864858;t_alt_count141;t_ref_count69;Variant_ClassificationMissense_Mutation;
+9258860c-a336-4075-996d-2ee0c18b281c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=65663637, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3023;t_alt_count13;t_ref_count30;Variant_ClassificationlincRNA;
+Record(CHROM=9, POS=126597508, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2759;t_alt_count16;t_ref_count42;Variant_ClassificationIntron;
+926a04de-ef57-4271-91db-e90de8aa8a1a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=37295471, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1765;t_alt_count15;t_ref_count70;Variant_ClassificationIGR;
+929f2216-6ab3-414f-a814-49b69d4b49d9.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=21, POS=46808793, REF=T, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.4286;repeat_maskerLTR33;t_alt_count9;t_ref_count12;Variant_ClassificationIGR;
+Record(CHROM=7, POS=152569891, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0909;t_alt_count1;t_ref_count10;snv_near_indelTrue;Variant_ClassificationIGR;
+941fcb56-e059-403d-aab1-0692a3ecc45e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=676051, REF=C, ALT=[T])....1000genomes_AF0.00039936;1000genomes_IDrs564478383;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1552;cosmicCOSN9455553;dbsnprs564478383;t_alt_count9;t_ref_count49;Variant_ClassificationIntron;
+95cc9620-7686-4805-a96c-cf8e659847c3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=160163045, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.25;cosmicCOSN16804822;t_alt_count17;t_ref_count51;Variant_ClassificationIntron;
+9650640f-154d-4696-aa96-3611c6fcee7b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=8, POS=142233541, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1461;t_alt_count13;t_ref_count76;Variant_ClassificationIntron;
+Record(CHROM=X, POS=134304734, REF=G, ALT=[A])....Callers['dkfz', 'sanger'];NumCallers2;VAF0.5;t_alt_count13;t_ref_count13;Variant_ClassificationIntron;
+96a2896c-1e32-4827-a526-6b7104832f9a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=18896743, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2093;t_alt_count9;t_ref_count34;Variant_ClassificationIntron;
+96abdbc8-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=91172768, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1818;t_alt_count4;t_ref_count18;Variant_ClassificationIGR;
+Record(CHROM=20, POS=35050399, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5;cosmicCOSN1870639;repeat_maskerL2b;t_alt_count13;t_ref_count13;Variant_ClassificationIntron;
+96b67289-9c42-402b-8e30-9efb4d512bef.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=156427370, REF=T, ALT=[G])....Callers['broad', 'sanger'];NumCallers2;VAF0.1667;t_alt_count3;t_ref_count15;Variant_ClassificationlincRNA;
+9749a9a5-cb7f-4038-a5f9-5e2d6b97c689.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=763529, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1522;cosmicCOSM4412093;t_alt_count7;t_ref_count39;Variant_ClassificationIntron;
+98d27916-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=10410631, REF=G, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.375;t_alt_count3;t_ref_count5;Variant_ClassificationIGR;
+Record(CHROM=2, POS=10410632, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.4444;t_alt_count4;t_ref_count5;Variant_ClassificationIGR;
+98e8f23c-5970-4fce-9551-4b11a772fe1b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=10750640, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5;t_alt_count11;t_ref_count11;Variant_ClassificationIntron;
+Record(CHROM=1, POS=37875913, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4211;t_alt_count8;t_ref_count11;Variant_ClassificationIGR;
+Record(CHROM=1, POS=228253154, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2281;t_alt_count13;t_ref_count44;Variant_ClassificationIGR;
+Record(CHROM=1, POS=228253518, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2979;t_alt_count14;t_ref_count33;Variant_ClassificationIGR;
+Record(CHROM=14, POS=101072186, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4667;t_alt_count14;t_ref_count16;Variant_ClassificationIGR;
+Record(CHROM=16, POS=30198442, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs570148791;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4211;cosmicCOSM1238583;dbsnprs570148791;t_alt_count8;t_ref_count11;Variant_ClassificationSilent;
+Record(CHROM=19, POS=7804957, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1842;repeat_maskerLTR45B;t_alt_count7;t_ref_count31;Variant_Classification3'UTR;
+Record(CHROM=19, POS=41633657, REF=G, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1538;repeat_maskerMIR;t_alt_count4;t_ref_count22;Variant_ClassificationIntron;
+Record(CHROM=2, POS=113471191, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6667;t_alt_count18;t_ref_count9;Variant_ClassificationIGR;
+Record(CHROM=20, POS=37294850, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.3158;t_alt_count18;t_ref_count39;Variant_ClassificationIGR;
+Record(CHROM=20, POS=47964538, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6842;t_alt_count26;t_ref_count12;Variant_ClassificationIGR;
+Record(CHROM=3, POS=13185177, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5455;repeat_maskerMLT1K;t_alt_count12;t_ref_count10;Variant_ClassificationIGR;
+Record(CHROM=3, POS=138698587, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5417;t_alt_count26;t_ref_count22;Variant_ClassificationIGR;
+Record(CHROM=3, POS=151570034, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3571;repeat_maskerL1PA8;t_alt_count15;t_ref_count27;Variant_ClassificationRNA;
+Record(CHROM=3, POS=151570040, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5952;repeat_maskerL1PA8;t_alt_count25;t_ref_count17;Variant_ClassificationRNA;
+Record(CHROM=6, POS=7899762, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.1538;repeat_masker(GGGA)n;t_alt_count4;t_ref_count22;Variant_ClassificationIntron;
+Record(CHROM=7, POS=66023179, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6538;t_alt_count17;t_ref_count9;Variant_ClassificationIGR;
+Record(CHROM=7, POS=75410147, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.641;repeat_maskerHERVH-int;t_alt_count25;t_ref_count14;Variant_ClassificationIntron;
+Record(CHROM=9, POS=135859756, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3182;t_alt_count7;t_ref_count15;Variant_ClassificationIntron;
+Record(CHROM=X, POS=134305117, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8462;t_alt_count11;t_ref_count2;Variant_Classification5'UTR;
+Record(CHROM=X, POS=134305118, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8462;dbsnprs782335981;t_alt_count11;t_ref_count2;Variant_Classification5'UTR;
+99bdc3da-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=207694024, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.122;repeat_maskerL1ME3;t_alt_count5;t_ref_count36;Variant_ClassificationIntron;
+Record(CHROM=6, POS=58301050, REF=T, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1852;repeat_maskerLTR17;t_alt_count5;t_ref_count22;Variant_ClassificationlincRNA;
+9a015939-8810-4808-9dfa-fb60a1173bc7.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616824, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4667;t_alt_count14;t_ref_count16;Variant_Classification3'UTR;
+9aac83e4-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=81491504, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2105;cosmicCOSN5412758;t_alt_count4;t_ref_count15;Variant_ClassificationIntron;
+9aecfc8f-62ea-4acf-aa00-d1f0fe6c6556.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569407, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2045;cosmicCOSN8498667;t_alt_count18;t_ref_count70;Variant_ClassificationIGR;
+9b3e7a03-cf8c-4da8-bc36-20129d7783ba.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=94516338, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3077;t_alt_count12;t_ref_count27;Variant_ClassificationIGR;
+9cb80280-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=227161280, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5455;cosmicCOSN1434337;t_alt_count12;t_ref_count10;Variant_ClassificationIntron;
+Record(CHROM=1, POS=228253327, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6154;cosmicCOSN1434673;t_alt_count16;t_ref_count10;Variant_ClassificationIGR;
+9de495d1-55b2-4535-9b0a-a999df35977c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569311, REF=C, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.0568;cosmicCOSN17823435;t_alt_count5;t_ref_count83;Variant_ClassificationIGR;
+9e6806c4-d331-4025-abee-2f576e3bf182.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=31712067, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6579;cosmicCOSN8456693;t_alt_count25;t_ref_count13;Variant_ClassificationIntron;
+Record(CHROM=16, POS=4944802, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3571;cosmicCOSN8500719;t_alt_count10;t_ref_count18;Variant_ClassificationIntron;
+Record(CHROM=X, POS=129130376, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2973;cosmicCOSN9178967;t_alt_count11;t_ref_count26;Variant_ClassificationIntron;
+9ec31146-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=172083710, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4348;cosmicCOSN6283851;t_alt_count10;t_ref_count13;Variant_ClassificationIntron;
+9fc5b5c7-3973-42b4-8710-454de0cb5b50.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=160163061, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6066;t_alt_count37;t_ref_count24;Variant_ClassificationIntron;
+Record(CHROM=14, POS=101072982, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1094;t_alt_count7;t_ref_count57;Variant_ClassificationIGR;
+Record(CHROM=16, POS=85470884, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3636;t_alt_count20;t_ref_count35;Variant_ClassificationIGR;
+Record(CHROM=19, POS=18896171, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.45;repeat_masker(CCCCG)n;t_alt_count18;t_ref_count22;Variant_ClassificationIntron;
+Record(CHROM=19, POS=42820845, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4038;cosmicCOSM377543;t_alt_count21;t_ref_count31;Variant_ClassificationSilent;
+Record(CHROM=7, POS=1572869, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3968;t_alt_count25;t_ref_count38;Variant_ClassificationIntron;
+Record(CHROM=8, POS=142233575, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3182;t_alt_count35;t_ref_count75;Variant_ClassificationIntron;
+Record(CHROM=8, POS=142233576, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3211;t_alt_count35;t_ref_count74;Variant_ClassificationIntron;
+Record(CHROM=X, POS=134305477, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2167;t_alt_count13;t_ref_count47;Variant_Classification5'Flank;
+a08c196e-4f96-4b16-94b4-aa6a0153ac50.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=117883292, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1584;t_alt_count16;t_ref_count85;Variant_ClassificationIGR;
+Record(CHROM=6, POS=39277907, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1026;t_alt_count8;t_ref_count70;Variant_ClassificationIntron;
+a284fe9d-9afd-4472-8d70-243ca9be5c2c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=39277427, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1746;t_alt_count11;t_ref_count52;Variant_ClassificationIntron;
+Record(CHROM=X, POS=134305668, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.15;t_alt_count9;t_ref_count51;Variant_Classification5'Flank;
+a2a67c8a-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=7804964, REF=G, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1786;cosmicCOSN1773292;repeat_maskerLTR45B;t_alt_count5;t_ref_count23;Variant_Classification3'UTR;
+a3135834-3af0-4e98-bc6f-ad8ddf33db80.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=21, POS=43377519, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.35;cosmicCOSN9159516;t_alt_count14;t_ref_count26;Variant_ClassificationIGR;
+a3210fd0-344c-468e-8ff2-2d0869a2fb75.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=29887694, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.18;cosmicCOSN16075873;t_alt_count9;t_ref_count41;Variant_ClassificationIntron;
+a335b03d-41ac-4d41-a2a9-3134b5b0a0a7.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=134801474, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2115;cosmicCOSN9926281;repeat_maskerMIRb;t_alt_count22;t_ref_count82;Variant_ClassificationIGR;
+Record(CHROM=X, POS=134572418, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2268;cosmicCOSN9876843;t_alt_count22;t_ref_count75;Variant_ClassificationIGR;
+a37a825c-d74e-46cc-92ef-b65016857b4a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=91172701, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2899;t_alt_count20;t_ref_count49;Variant_ClassificationIGR;
+a3914a6c-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=167655109, REF=A, ALT=[G])....Callers['broad', 'sanger'];NumCallers2;VAF0.5556;t_alt_count5;t_ref_count4;Variant_ClassificationlincRNA;
+a3edc9cc-f54a-4459-a5d0-097879c811e5.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=4, POS=9895221, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.2222;cosmicCOSN7850733;repeat_masker(GGGA)n;t_alt_count16;t_ref_count56;Variant_ClassificationIntron;
+a4ca18dc-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=73508540, REF=C, ALT=[A])....Callers['broad', 'sanger'];NumCallers2;VAF0.6667;t_alt_count4;t_ref_count2;Variant_Classification3'UTR;
+a6045753-60bb-4e65-bc89-1ef0b47aab35.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569472, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.0825;t_alt_count8;t_ref_count89;Variant_ClassificationIGR;
+a68389d4-431f-4582-b4df-e8ad200aa3be.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=44481396, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5455;repeat_maskerLTR52;t_alt_count24;t_ref_count20;Variant_Classification3'UTR;
+a6e24c2a-26b9-409c-bbcd-a8fcdd1e437c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=142677884, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2308;t_alt_count9;t_ref_count30;Variant_ClassificationIGR;
+a7314730-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=111834792, REF=C, ALT=[G])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.381;cosmicCOSN5315481;t_alt_count8;t_ref_count13;Variant_ClassificationlincRNA;
+Record(CHROM=16, POS=33569213, REF=C, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.3333;cosmicCOSN5406635;t_alt_count8;t_ref_count16;Variant_ClassificationIGR;
+a84915de-6562-4836-86f9-f2a05598296e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=113503300, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4203;repeat_maskerC-rich;t_alt_count29;t_ref_count40;Variant_ClassificationIntron;
+a92023de-5c97-4bf2-aa3c-0e768d7c5ece.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=79154131, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1591;t_alt_count7;t_ref_count37;Variant_ClassificationIGR;
+aa215f18-ae1f-4f0e-89dd-ac59ee8c8c44.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=87609045, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2899;cosmicCOSN9221944;repeat_maskerMIR;t_alt_count20;t_ref_count49;Variant_ClassificationIGR;
+aa4a868a-df23-4eef-a618-e945aa2ce98a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=133928883, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.175;cosmicCOSN7557898;t_alt_count14;t_ref_count66;Variant_ClassificationIntron;
+abe290ed-67c8-42bb-84f7-0d32a5f8f3db.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=116711143, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2;cosmicCOSN15028386;t_alt_count17;t_ref_count68;Variant_ClassificationlincRNA;
+abedd46c-47b8-4242-adb6-12835400cb3f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=113503440, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2759;dbsnprs548924113;repeat_maskerG-rich;t_alt_count8;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=2, POS=106258012, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4595;repeat_maskerPlat_L3;t_alt_count17;t_ref_count20;Variant_ClassificationIGR;
+acd510de-b732-4a1a-8b72-6d22e763540b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569484, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1724;cosmicCOSN8498668;t_alt_count15;t_ref_count72;Variant_ClassificationIGR;
+Record(CHROM=17, POS=42357574, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.381;cosmicCOSN8837065;t_alt_count8;t_ref_count13;Variant_ClassificationIGR;
+ad4aa4dc-bea4-4f4a-8b1b-8f361112f84f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=106529920, REF=C, ALT=[G])....1000genomes_AF0.0023962;1000genomes_IDrs537800267;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3378;cosmicCOSN15147205;dbsnprs537800267;t_alt_count25;t_ref_count49;Variant_ClassificationIntron;
+Record(CHROM=2, POS=242167546, REF=C, ALT=[T])....1000genomes_AF0.00079872;1000genomes_IDrs527452609;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3333;dbsnprs527452609;t_alt_count23;t_ref_count46;Variant_Classification3'UTR;
+ad92f17f-11e6-49bd-9835-6b2f47053485.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=7216947, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.9091;cosmicCOSM145460;t_alt_count10;t_ref_count1;Variant_ClassificationNonsense_Mutation;
+ae82fead-2671-4335-a342-67bb69935ad9.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=106014041, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2308;cosmicCOSN8980496;t_alt_count12;t_ref_count40;Variant_ClassificationIntron;
+Record(CHROM=5, POS=95179012, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3929;cosmicCOSN9197753;repeat_maskerMIRb;t_alt_count11;t_ref_count17;Variant_ClassificationRNA;
+aeeb01b4-790e-4929-bd59-6aad837603b1.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=122116754, REF=A, ALT=[G])....1000genomes_AF0.00019968;1000genomes_IDrs558793977;Callers['broad', 'muse'];NumCallers2;VAF0.2222;dbsnprs558793977;t_alt_count2;t_ref_count7;Variant_ClassificationIGR;
+b02b4bba-6e66-44fb-a48f-38c309aaaac5.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=137794123, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2857;cosmicCOSN14840224;t_alt_count16;t_ref_count40;Variant_ClassificationIGR;
+b28f7607-f162-425f-b44d-64e9633c8824.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=7899348, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2188;t_alt_count7;t_ref_count25;Variant_ClassificationIntron;
+b2d9aaff-5a48-48f0-bf55-bfd4ddaeccaf.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=106013707, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1364;repeat_maskerMIR;t_alt_count3;t_ref_count19;Variant_ClassificationIntron;
+b37d6283-6f95-4975-a794-f3d5c4bbc7b3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=155138028, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2857;cosmicCOSN7970852;t_alt_count18;t_ref_count45;Variant_ClassificationIGR;
+b421b9ca-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=13749264, REF=A, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.2083;cosmicCOSN5281204;repeat_masker(CA)n;t_alt_count5;t_ref_count19;Variant_ClassificationIntron;
+Record(CHROM=16, POS=33569473, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1613;cosmicCOSN5406636;t_alt_count10;t_ref_count52;Variant_ClassificationIGR;
+Record(CHROM=20, POS=35050143, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3333;cosmicCOSN5443327;repeat_maskerL2b;t_alt_count8;t_ref_count16;Variant_ClassificationIntron;
+b42d183c-bc9c-4652-9e56-10c54c5ee96e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=14246568, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.717;t_alt_count38;t_ref_count15;Variant_ClassificationIGR;
+b53dcb4d-f894-47b8-8a4e-17c7998d8120.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=106647920, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1193;cosmicCOSN17577564;t_alt_count13;t_ref_count96;Variant_ClassificationIGR;
+Record(CHROM=7, POS=153737249, REF=A, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2564;t_alt_count10;t_ref_count29;Validation_status['PASS'];Variant_ClassificationIntron;
+b54b9433-ec10-4cb5-a860-4555da64917b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=X, POS=118833015, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.15;cosmicCOSN16908732;repeat_maskerL2c;t_alt_count6;t_ref_count34;Variant_ClassificationIGR;
+b55751c4-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=42366253, REF=A, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.1277;repeat_maskerAluSq2;t_alt_count6;t_ref_count41;Variant_ClassificationRNA;
+b5cabba2-30a4-458e-897c-00ec3fefa6d2.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=5026161, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3889;cosmicCOSN8226462;t_alt_count14;t_ref_count22;Variant_ClassificationlincRNA;
+b5f90cb8-7304-48fb-a1d3-ff459c7d79d1.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=73508562, REF=C, ALT=[T])....1000genomes_AF0.00039936;1000genomes_IDrs553179847;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4118;cosmicCOSN1122161;dbsnprs553179847;t_alt_count28;t_ref_count40;Variant_Classification3'UTR;
+b67208c4-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=39277768, REF=A, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.2;t_alt_count4;t_ref_count16;Variant_ClassificationIntron;
+b757a040-3c9e-45e7-a045-9cd08db11d62.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=22, POS=37562731, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3191;cosmicCOSN15247483;t_alt_count15;t_ref_count32;Variant_ClassificationRNA;
+b75b2663-dcc6-411c-bfcc-574aa33cf388.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=172083767, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1754;cosmicCOSN9420416;repeat_maskerLTR10F;t_alt_count10;t_ref_count47;Variant_ClassificationIntron;
+b8f3137e-5e92-4a56-90d4-884a4ed2ef9c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=42365735, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6338;cosmicCOSN14996538;t_alt_count45;t_ref_count26;Variant_ClassificationRNA;
+Record(CHROM=7, POS=152569282, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2333;cosmicCOSN14980627;t_alt_count14;t_ref_count46;Variant_ClassificationIGR;
+b994762c-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=242167693, REF=C, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.0769;t_alt_count3;t_ref_count36;Variant_Classification3'UTR;
+Record(CHROM=21, POS=46809147, REF=T, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1667;repeat_maskerLTR33;t_alt_count5;t_ref_count25;Variant_ClassificationIGR;
+b9dbc78e-44ce-427c-bbeb-de8d097bde2c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=91173038, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4286;cosmicCOSN4753385;t_alt_count6;t_ref_count8;Variant_ClassificationIGR;
+ba096d4f-5a6c-4c31-ae03-e7483cf58c38.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=196064870, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.0746;cosmicCOSN17700982;repeat_maskerL2c;t_alt_count5;t_ref_count62;Variant_ClassificationIntron;
+ba940092-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=103571314, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5882;cosmicCOSN1638434;t_alt_count10;t_ref_count7;Variant_ClassificationIntron;
+bb5bedd3-d8fc-4739-8e6b-9e37223f8be2.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569371, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1262;cosmicCOSN17870392;t_alt_count13;t_ref_count90;Variant_ClassificationIGR;
+Record(CHROM=7, POS=106647846, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.0794;cosmicCOSN17358077;t_alt_count5;t_ref_count58;Variant_ClassificationIGR;
+Record(CHROM=9, POS=135879606, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.0676;cosmicCOSN17359205;t_alt_count5;t_ref_count69;Variant_ClassificationIGR;
+bb65d670-0411-4fc5-a6cb-019caec1ab36.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=6927451, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5;dbsnprs374882649;t_alt_count11;t_ref_count11;Variant_ClassificationMissense_Mutation;
+bba106ce-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=18, POS=34152451, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2273;cosmicCOSN1739105;t_alt_count5;t_ref_count17;Variant_ClassificationIntron;
+bbdd7393-024b-4073-b5bc-ef7a68c15b8a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=156427547, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5167;t_alt_count31;t_ref_count29;Variant_ClassificationlincRNA;
+Record(CHROM=17, POS=40679467, REF=T, ALT=[C])....Callers['broad', 'dkfz'];NumCallers2;VAF0.0968;t_alt_count6;t_ref_count56;Variant_ClassificationIGR;
+Record(CHROM=21, POS=46809020, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5806;t_alt_count18;t_ref_count13;Variant_ClassificationIGR;
+Record(CHROM=8, POS=142233343, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.0667;t_alt_count7;t_ref_count98;Variant_ClassificationIntron;
+bbff7954-95ec-455c-b0bc-92f67a09ee77.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=37294671, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4419;cosmicCOSN7998924;t_alt_count19;t_ref_count24;Variant_ClassificationIGR;
+bc1d5327-2e76-4e0e-b749-72a559469d0d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=60988440, REF=C, ALT=[G])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2;t_alt_count4;t_ref_count16;Variant_ClassificationIntron;
+Record(CHROM=7, POS=100485477, REF=C, ALT=[G])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.25;t_alt_count4;t_ref_count12;Variant_ClassificationMissense_Mutation;
+bc9b66f5-fcb8-4545-ab2d-438bb810edc0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=1955107, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6154;cosmicCOSN8416184;t_alt_count16;t_ref_count10;Variant_ClassificationIntron;
+bcc74a5e-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569575, REF=G, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.35;cosmicCOSN1697861;repeat_maskerMLT1J;t_alt_count7;t_ref_count13;Variant_ClassificationIGR;
+bcef0b6c-6584-4090-9d28-ef784a7e5fbb.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=168041, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2955;cosmicCOSN16549502;t_alt_count13;t_ref_count31;Variant_ClassificationIGR;
+Record(CHROM=9, POS=99820115, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs561108584;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.25;cosmicCOSN16548821;dbsnprs561108584;t_alt_count11;t_ref_count33;Variant_ClassificationIGR;
+bcefbf6a-80ff-4825-9d3a-492e2dceb35d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=60493899, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.5;t_alt_count46;t_ref_count46;Variant_ClassificationIntron;
+Record(CHROM=21, POS=46978338, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4762;t_alt_count30;t_ref_count33;Variant_ClassificationIGR;
+Record(CHROM=7, POS=75410147, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8269;repeat_maskerHERVH-int;t_alt_count43;t_ref_count9;Variant_ClassificationIntron;
+Record(CHROM=7, POS=155137273, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs574072910;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2083;dbsnprs574072910;t_alt_count15;t_ref_count57;Variant_ClassificationIGR;
+Record(CHROM=7, POS=155137960, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8037;t_alt_count86;t_ref_count21;Variant_ClassificationIGR;
+bcf76f1a-7109-422d-94c9-5e8364895fa0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=34748990, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1176;repeat_maskerMIRc;t_alt_count12;t_ref_count90;Variant_ClassificationIGR;
+bdeeb1a6-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=74344117, REF=T, ALT=[C])....Callers['broad', 'muse'];NumCallers2;VAF0.1143;t_alt_count4;t_ref_count31;Variant_ClassificationRNA;
+Record(CHROM=5, POS=5026078, REF=C, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1515;repeat_maskerLTR12F;t_alt_count5;t_ref_count28;Variant_ClassificationlincRNA;
+beafb7c6-ef39-478e-aa47-0f1ad39f95a3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=58902913, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3333;cosmicCOSN16146411;repeat_maskerMER5A;t_alt_count19;t_ref_count38;Variant_ClassificationIntron;
+c0523251-3ac2-4292-bb00-9ae9ea9009f6.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=10805961, REF=C, ALT=[T])....1000genomes_AF0.00019968;1000genomes_IDrs541592329;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1525;cosmicCOSN16610065;dbsnprs541592329;t_alt_count9;t_ref_count50;Variant_ClassificationIGR;
+Record(CHROM=3, POS=159724383, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2459;cosmicCOSN15903286;t_alt_count15;t_ref_count46;Variant_ClassificationRNA;
+c298ec82-8305-4c89-898f-268308f782b2.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=13, POS=114048221, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2923;cosmicCOSN9743172;t_alt_count19;t_ref_count46;Variant_ClassificationIGR;
+Record(CHROM=3, POS=142677739, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.283;cosmicCOSN9758363;dbsnprs756431733;repeat_masker7SK;t_alt_count15;t_ref_count38;Variant_ClassificationIGR;
+c2aafb9c-230a-43df-9a43-b34aa145a7bd.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=78642700, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2917;cosmicCOSN9957390;t_alt_count14;t_ref_count34;Variant_ClassificationIGR;
+c6bb32f0-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=8, POS=140641568, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3636;cosmicCOSN6916250;t_alt_count8;t_ref_count14;Variant_ClassificationIntron;
+c906a13e-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=37876732, REF=C, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.4118;cosmicCOSN6035070;t_alt_count7;t_ref_count10;Variant_ClassificationIGR;
+Record(CHROM=10, POS=61468667, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'sanger'];NumCallers3;VAF0.2857;t_alt_count4;t_ref_count10;Variant_ClassificationIntron;
+c95a2b1b-726c-4608-9fff-d57b6f1aa75a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=30249549, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.35;t_alt_count7;t_ref_count13;Variant_ClassificationIGR;
+Record(CHROM=5, POS=134802062, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4167;t_alt_count10;t_ref_count14;Variant_ClassificationIGR;
+Record(CHROM=6, POS=14464266, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2692;t_alt_count14;t_ref_count38;Variant_ClassificationIGR;
+c9e7c629-7b57-4ede-b315-0cea8c97c48e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=37875860, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.209;t_alt_count14;t_ref_count53;Variant_ClassificationIGR;
+c9f91ded-3b04-4cd1-8ea6-bbc635a8a4f0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=29888232, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1471;t_alt_count10;t_ref_count58;Variant_ClassificationMissense_Mutation;
+Record(CHROM=2, POS=127507404, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1719;repeat_maskerMER20B;t_alt_count11;t_ref_count53;Variant_ClassificationIGR;
+Record(CHROM=6, POS=146349336, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1633;dbsnprs759190675;t_alt_count8;t_ref_count41;Variant_ClassificationIntron;
+ca004926-f3ac-4824-8ed5-d84e62efdfae.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=7805166, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2281;dbsnprs865814144;repeat_maskerLTR45B;t_alt_count13;t_ref_count44;Variant_Classification3'UTR;
+ca5ded1c-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=87616233, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3913;cosmicCOSN6097811;t_alt_count9;t_ref_count14;Variant_ClassificationIGR;
+Record(CHROM=3, POS=152770042, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5294;cosmicCOSN6736807;t_alt_count18;t_ref_count16;Variant_ClassificationIGR;
+ca8fa9f5-3190-440d-9879-22e33d05ca6c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=22444091, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1212;repeat_maskerHERVL32-int;t_alt_count8;t_ref_count58;Variant_ClassificationIGR;
+Record(CHROM=3, POS=14849874, REF=C, ALT=[T])....1000genomes_AF0.00039936;1000genomes_IDrs572124255;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3556;dbsnprs572124255;t_alt_count16;t_ref_count29;Variant_ClassificationlincRNA;
+Record(CHROM=9, POS=135859831, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs546147732;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3143;dbsnprs546147732;repeat_maskerMIR3;t_alt_count11;t_ref_count24;Variant_ClassificationIntron;
+cb381d49-4546-400c-af02-f877083caa0a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=73508036, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.0845;cosmicCOSN17639333;t_alt_count6;t_ref_count65;Variant_Classification3'UTR;
+cb753e6f-5ea3-4b58-9db3-7a62d15c8b2e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=207693410, REF=A, ALT=[G])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1364;cosmicCOSN8969187;repeat_maskerL1ME3;t_alt_count12;t_ref_count76;Variant_ClassificationIntron;
+cb86fbb6-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=652264, REF=G, ALT=[A])....1000genomes_AF0.00019968;1000genomes_IDrs573481088;Callers['broad', 'muse'];NumCallers2;VAF0.1087;dbsnprs573481088;t_alt_count5;t_ref_count41;Variant_ClassificationIntron;
+cba4de91-cce7-4edc-8450-d0a52c959586.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=66023167, REF=A, ALT=[C])....Callers['broad', 'muse'];NumCallers2;VAF0.1875;t_alt_count6;t_ref_count26;Variant_ClassificationIGR;
+cd9efdef-a7fb-49e5-9515-63606ae8bbfc.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=124616978, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2368;cosmicCOSN8735980;t_alt_count9;t_ref_count29;Variant_Classification3'UTR;
+cdcc04fc-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=19216956, REF=G, ALT=[T])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.3;t_alt_count3;t_ref_count7;Variant_ClassificationIntron;
+ce85ccf3-6621-4976-b187-2f28d45dd4d9.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=39243735, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1795;repeat_maskerMLT1E3;t_alt_count7;t_ref_count32;Variant_ClassificationIGR;
+cf2d34c4-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=122675608, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.4643;cosmicCOSN1560362;t_alt_count13;t_ref_count15;Variant_ClassificationIntron;
+Record(CHROM=14, POS=23322806, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5833;cosmicCOSN1640324;t_alt_count7;t_ref_count5;Variant_ClassificationRNA;
+Record(CHROM=6, POS=39277733, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5833;cosmicCOSN2161440;t_alt_count7;t_ref_count5;Variant_ClassificationIntron;
+Record(CHROM=X, POS=79834221, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.8636;t_alt_count19;t_ref_count3;Variant_ClassificationIGR;
+cf6c7066-6611-43ec-aef1-295a976cce5b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=141566468, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4426;cosmicCOSN9408759;t_alt_count27;t_ref_count34;Variant_ClassificationIGR;
+cf777ef1-765f-4828-b789-f5aa6722eb35.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=27070721, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3066;cosmicCOSN1102231;t_alt_count42;t_ref_count95;Variant_ClassificationIntron;
+d1842491-29ff-4801-8c8a-4d619f749dd1.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=22443857, REF=T, ALT=[G])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1768;repeat_maskerHERVL32-int;t_alt_count35;t_ref_count163;Variant_ClassificationIGR;
+d1be624b-eb76-4ce3-a6ba-ffc5b23953d3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=X, POS=134304862, REF=G, ALT=[A])....Callers['broad', 'sanger'];NumCallers2;VAF0.7143;t_alt_count5;t_ref_count2;Variant_ClassificationIntron;
+d2620dab-4319-499a-b8f1-9575aaf8f4f3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=103571948, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4737;t_alt_count9;t_ref_count10;Variant_ClassificationIntron;
+d2ab7fd4-d1c7-48ae-ba9a-78c5d811465e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=137248286, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5556;t_alt_count10;t_ref_count8;Variant_ClassificationIntron;
+d392ded3-afc8-4c79-b278-40245f18f2f8.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=31415874, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.0909;t_alt_count4;t_ref_count40;Variant_ClassificationIntron;
+d3ad5b5a-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=8, POS=142233997, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1212;t_alt_count4;t_ref_count29;Variant_ClassificationIntron;
+d4907a1b-8b06-47c5-8bca-c781d9cddaf8.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=228253378, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3824;cosmicCOSN7206919;t_alt_count39;t_ref_count63;Variant_ClassificationIGR;
+d4bf6034-aeae-48a6-907b-10e2cc904015.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=171720761, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1837;repeat_maskerLTR41;t_alt_count9;t_ref_count40;Variant_ClassificationIGR;
+d4c6061b-5019-4564-806d-4e75910a4690.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=95178775, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1939;cosmicCOSN9960790;t_alt_count19;t_ref_count79;Variant_ClassificationRNA;
+d4ea36e2-1323-4441-8c63-40ce269608f4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=8, POS=142233954, REF=C, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.082;t_alt_count5;t_ref_count56;Variant_ClassificationIntron;
+d515c7d2-2314-46bf-9736-ff3f3d2ab599.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=113470000, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1071;cosmicCOSN16732383;t_alt_count6;t_ref_count50;Variant_ClassificationIGR;
+d5c87d16-172f-4790-8867-949dcaa534d4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=424067, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1915;t_alt_count9;t_ref_count38;Variant_ClassificationIntron;
+d60f880a-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=61691799, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3684;cosmicCOSN5977097;t_alt_count14;t_ref_count24;Variant_ClassificationlincRNA;
+d6ee68e5-ceb3-4a63-b3bd-e64fe5398102.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=85470179, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3182;cosmicCOSN4767937;t_alt_count7;t_ref_count15;Variant_ClassificationIGR;
+d709d214-02ee-46c1-a73a-e7074cb2623e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=108439087, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2292;cosmicCOSN16994026;t_alt_count11;t_ref_count37;Variant_ClassificationIGR;
+da43386c-47f8-4e03-b6ca-8b94e13792e7.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=48334993, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.1034;t_alt_count3;t_ref_count26;Variant_ClassificationIGR;
+Record(CHROM=7, POS=155137766, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1333;cosmicCOSN9978815;t_alt_count6;t_ref_count39;Variant_ClassificationIGR;
+da910f22-126e-41dc-be6b-47c8f69ad106.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=91173364, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2558;t_alt_count11;t_ref_count32;Variant_ClassificationIGR;
+Record(CHROM=7, POS=120970789, REF=A, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.3;repeat_masker(A)n;t_alt_count9;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=9, POS=135859924, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2133;t_alt_count16;t_ref_count59;Variant_ClassificationIntron;
+dbae3c4e-6d66-483a-a611-7285067bf85c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=110648879, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'sanger'];NumCallers3;VAF0.2174;t_alt_count5;t_ref_count18;Variant_ClassificationRNA;
+Record(CHROM=11, POS=124616584, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2414;t_alt_count7;t_ref_count22;Variant_Classification3'UTR;
+dcc938da-3e45-4c2f-ae0f-47817be04518.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=23736948, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2647;cosmicCOSN16270156;t_alt_count27;t_ref_count75;Variant_ClassificationIntron;
+dce54d09-9827-4fe2-abe1-c5b7d528ba7f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=46988254, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4262;cosmicCOSN8471323;t_alt_count26;t_ref_count35;Variant_ClassificationIGR;
+dd2e7b3c-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=106647480, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.234;cosmicCOSN5643020;t_alt_count11;t_ref_count36;Variant_ClassificationIGR;
+dd7d623b-b9af-4147-9aa6-e09793691f10.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=763026, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1875;cosmicCOSN15209617;t_alt_count12;t_ref_count52;Variant_ClassificationIntron;
+Record(CHROM=2, POS=65663519, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2929;cosmicCOSN15231499;t_alt_count29;t_ref_count70;Variant_ClassificationlincRNA;
+Record(CHROM=9, POS=91419191, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2099;cosmicCOSN15223698;repeat_maskerLTR67B;t_alt_count17;t_ref_count64;Variant_ClassificationIGR;
+de581588-be15-4bf4-95d1-aa5478b53ab6.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=48334504, REF=T, ALT=[G])....Callers['dkfz', 'muse'];NumCallers2;VAF0.25;t_alt_count7;t_ref_count21;Variant_ClassificationIGR;
+deb9fbb6-656b-41ce-8299-554efc2379bd.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=1955878, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4091;t_alt_count9;t_ref_count13;Variant_ClassificationIntron;
+Record(CHROM=1, POS=37861043, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4359;t_alt_count34;t_ref_count44;Variant_ClassificationIGR;
+Record(CHROM=1, POS=58902952, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4177;repeat_maskerMER5A;t_alt_count33;t_ref_count46;Variant_ClassificationIntron;
+Record(CHROM=1, POS=58902953, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4198;repeat_maskerMER5A;t_alt_count34;t_ref_count47;Variant_ClassificationIntron;
+Record(CHROM=10, POS=73507747, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4133;t_alt_count31;t_ref_count44;Variant_Classification3'UTR;
+Record(CHROM=10, POS=73508122, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4792;t_alt_count23;t_ref_count25;Variant_Classification3'UTR;
+Record(CHROM=11, POS=112151568, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.9091;t_alt_count30;t_ref_count3;Variant_ClassificationRNA;
+Record(CHROM=12, POS=551584, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.9057;t_alt_count48;t_ref_count5;Variant_Classification3'UTR;
+Record(CHROM=15, POS=101549235, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4677;t_alt_count29;t_ref_count33;Variant_ClassificationMissense_Mutation;
+Record(CHROM=16, POS=85470291, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.48;t_alt_count12;t_ref_count13;Variant_ClassificationIGR;
+Record(CHROM=19, POS=424096, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4035;t_alt_count23;t_ref_count34;Variant_ClassificationIntron;
+Record(CHROM=20, POS=652001, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4658;t_alt_count34;t_ref_count39;Variant_ClassificationIntron;
+Record(CHROM=20, POS=652604, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3214;t_alt_count18;t_ref_count38;Variant_ClassificationIntron;
+Record(CHROM=5, POS=63908390, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4833;t_alt_count58;t_ref_count62;Variant_ClassificationIGR;
+Record(CHROM=X, POS=152955494, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.575;t_alt_count23;t_ref_count17;Variant_ClassificationIntron;
+decfb419-63b3-47b0-9dfc-baae180566a0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=1144007, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2742;cosmicCOSM4151211;t_alt_count17;t_ref_count45;Variant_ClassificationMissense_Mutation;
+df2d41c4-7e79-4a46-aa4a-2a11c051ac40.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=138136412, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.127;t_alt_count8;t_ref_count55;Variant_ClassificationIGR;
+dfde4013-9062-42f5-a42b-626ef8334a41.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=31415370, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3667;dbsnprs769761082;t_alt_count22;t_ref_count38;Variant_ClassificationIntron;
+Record(CHROM=20, POS=653819, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0635;cosmicCOSN17841031;t_alt_count4;t_ref_count59;Variant_ClassificationIntron;
+e2b09705-c5c8-48ee-a90e-19648a7bf2cb.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=39193627, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3889;t_alt_count7;t_ref_count11;Variant_ClassificationIntron;
+e2b2357c-da6f-4ca3-9c07-a22f0423e8fe.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=58902870, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.55;repeat_maskerMER5A;t_alt_count22;t_ref_count18;Variant_ClassificationIntron;
+Record(CHROM=16, POS=58530103, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4848;t_alt_count16;t_ref_count17;Variant_ClassificationIntron;
+Record(CHROM=18, POS=56435706, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5455;t_alt_count18;t_ref_count15;Variant_ClassificationIGR;
+Record(CHROM=20, POS=35050548, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4792;repeat_maskerL3;t_alt_count23;t_ref_count25;Variant_ClassificationIntron;
+Record(CHROM=6, POS=44169856, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5333;t_alt_count24;t_ref_count21;Variant_ClassificationIGR;
+Record(CHROM=7, POS=150694339, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5429;t_alt_count19;t_ref_count16;Variant_ClassificationIntron;
+Record(CHROM=7, POS=152569375, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.525;t_alt_count21;t_ref_count19;Variant_ClassificationIGR;
+Record(CHROM=9, POS=135859648, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2727;t_alt_count9;t_ref_count24;Variant_ClassificationIntron;
+Record(CHROM=9, POS=135859652, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2647;t_alt_count9;t_ref_count25;Variant_ClassificationIntron;
+e4aaca83-3ae9-47f6-a975-c144767ad705.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=37876563, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0916;t_alt_count12;t_ref_count119;Variant_ClassificationIGR;
+Record(CHROM=1, POS=37876630, REF=G, ALT=[C])....Callers['broad', 'muse'];NumCallers2;VAF0.0965;cosmicCOSN8468509;t_alt_count11;t_ref_count103;Variant_ClassificationIGR;
+Record(CHROM=1, POS=37876697, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1278;cosmicCOSN8468510;t_alt_count17;t_ref_count116;Variant_ClassificationIGR;
+Record(CHROM=11, POS=112151021, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2632;cosmicCOSN8732205;repeat_maskerL3;t_alt_count10;t_ref_count28;Variant_ClassificationRNA;
+e541b5b9-546d-47bc-acd6-4006ce0eec1d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=43919850, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3714;t_alt_count26;t_ref_count44;Variant_ClassificationIGR;
+e56b0990-ff67-47c1-b9ad-87ef1d4aa2ae.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=29887896, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.08;t_alt_count4;t_ref_count46;Variant_ClassificationIntron;
+e6168db0-d12f-4218-8ab9-bd704201cb2b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=14464438, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4286;cosmicCOSN8398987;t_alt_count15;t_ref_count20;Variant_ClassificationIGR;
+e7603fc8-9b73-4c17-86f9-46ca1bceeb1d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=65663500, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3636;cosmicCOSN15986187;t_alt_count12;t_ref_count21;Variant_ClassificationlincRNA;
+e7a0889c-dd8c-4230-9c63-384f1f6ee577.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=67903419, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4615;t_alt_count18;t_ref_count21;Variant_ClassificationIGR;
+e98e4e23-a139-4fff-b017-35f3f976eddd.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=12, POS=122675946, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2143;cosmicCOSM3356293;t_alt_count6;t_ref_count22;Variant_ClassificationSilent;
+ebe80d6c-7513-4f5e-9919-669b6d1fa68c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=39277615, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2308;cosmicCOSN9906901;dbsnprs777789845;repeat_maskerL2b;t_alt_count12;t_ref_count40;Variant_ClassificationIntron;
+ec399861-7a56-4ffd-8619-700b6e3a4367.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=150402016, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.425;t_alt_count17;t_ref_count23;Variant_ClassificationIGR;
+efacd7d6-56cf-4f6a-87f0-1a7ab6b1a643.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=8, POS=143571252, REF=C, ALT=[T])....1000genomes_AF0.00019968;1000genomes_IDrs538601081;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3721;cosmicCOSN16903630;dbsnprs538601081;t_alt_count16;t_ref_count27;Variant_ClassificationIntron;
+efbec43c-0c16-4006-abe8-c3ec2ec42c05.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=113471045, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2414;cosmicCOSN9072634;t_alt_count7;t_ref_count22;Variant_ClassificationIGR;
+Record(CHROM=X, POS=134305048, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3158;cosmicCOSM4137691;dbsnprs782780501;t_alt_count12;t_ref_count26;Variant_ClassificationSilent;
+efc39172-083c-4297-b922-3f58df781332.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=40424553, REF=C, ALT=[T])....1000genomes_AF0.00019968;1000genomes_IDrs530195226;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3509;cosmicCOSN7762012;dbsnprs530195226;repeat_maskerL2a;t_alt_count20;t_ref_count37;Variant_ClassificationRNA;
+efec3225-de07-4559-9a90-95223495cc61.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=58902959, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2449;cosmicCOSN8475648;repeat_maskerMER5A;t_alt_count12;t_ref_count37;Variant_ClassificationIntron;
+f0768c67-f38c-40a8-8f27-81a927fb5dca.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=198651057, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4651;cosmicCOSN5736290;t_alt_count20;t_ref_count23;Variant_ClassificationIntron;
+Record(CHROM=19, POS=42297005, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3273;cosmicCOSN5760716;repeat_maskerMIRb;t_alt_count18;t_ref_count37;Variant_ClassificationIGR;
+f07b9192-c86f-4ee4-a3b5-feb9c5098bf4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=112150861, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4;t_alt_count6;t_ref_count9;Variant_ClassificationRNA;
+f0a33adc-ea90-46ef-a24a-a8d7e4e15db3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=21, POS=38905660, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2549;repeat_maskerLTR41;t_alt_count13;t_ref_count38;Variant_ClassificationIGR;
+f0e0d978-3e32-4444-a07a-26049b2594e6.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=65664300, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2029;t_alt_count14;t_ref_count55;Variant_ClassificationlincRNA;
+Record(CHROM=3, POS=151569970, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1731;repeat_maskerL1PA8;t_alt_count9;t_ref_count43;Variant_ClassificationRNA;
+f1504811-8363-41e6-b43c-62452b1262d3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=72834023, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1818;t_alt_count6;t_ref_count27;Variant_ClassificationIGR;
+f1534b2a-5350-442c-bb9d-8c7142668d31.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=676493, REF=C, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.0984;t_alt_count6;t_ref_count55;Variant_ClassificationIntron;
+f24688a9-7952-49d8-ba80-2bbad472379c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=73508375, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5581;t_alt_count24;t_ref_count19;Variant_Classification3'UTR;
+Record(CHROM=12, POS=106529994, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4615;t_alt_count18;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=9, POS=135860652, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4138;repeat_maskerMIR3;t_alt_count12;t_ref_count17;Variant_ClassificationIntron;
+f2e639cc-c30c-459f-8afc-7ace7d0209c5.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=129467224, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.0652;t_alt_count3;t_ref_count43;Variant_ClassificationIGR;
+f37de4fa-52f6-4fe4-a3fa-41803032c93f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=22443786, REF=G, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2405;repeat_maskerHERVL32-int;t_alt_count19;t_ref_count60;Variant_ClassificationIGR;
+f393bafd-1baa-e5f4-e040-11ac0d48450b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=116220425, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3485;cosmicCOSN4708203;t_alt_count23;t_ref_count43;Variant_ClassificationIntron;
+f393bb01-6ed7-9533-e040-11ac0d484521.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=29888284, REF=G, ALT=[C])....Callers['muse', 'sanger'];NumCallers2;VAF0.3636;t_alt_count4;t_ref_count7;Variant_ClassificationIntron;
+f393bb05-53c2-f80a-e040-11ac0d484528.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=51797594, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2105;cosmicCOSN5134548;t_alt_count8;t_ref_count30;Variant_ClassificationIntron;
+Record(CHROM=X, POS=134305602, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.625;cosmicCOSN5139040;t_alt_count15;t_ref_count9;Variant_Classification5'Flank;
+f410b432-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=7805166, REF=C, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.2;dbsnprs865814144;repeat_maskerLTR45B;t_alt_count3;t_ref_count12;Variant_Classification3'UTR;
+f48c3c82-bebe-4b8e-909e-e1a51a7142ec.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=41146856, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0625;t_alt_count5;t_ref_count75;Variant_ClassificationIGR;
+Record(CHROM=9, POS=135859824, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2963;repeat_maskerMIR3;t_alt_count16;t_ref_count38;Variant_ClassificationIntron;
+f4ada7a2-c4ac-4f89-ada7-4645861002cb.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=106014159, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3051;cosmicCOSN16828217;t_alt_count18;t_ref_count41;Variant_ClassificationIntron;
+f50fb278-1f0f-406e-b341-eb3d1b97afe6.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=207628280, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2619;t_alt_count11;t_ref_count31;Variant_ClassificationIntron;
+Record(CHROM=1, POS=208167118, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1304;t_alt_count3;t_ref_count20;Variant_ClassificationIGR;
+Record(CHROM=16, POS=33569239, REF=T, ALT=[C])....Callers['broad', 'muse'];NumCallers2;VAF0.1379;repeat_maskerMLT1J;t_alt_count4;t_ref_count25;Variant_ClassificationIGR;
+Record(CHROM=20, POS=652061, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse'];NumCallers3;VAF0.1081;dbsnprs766607521;t_alt_count4;t_ref_count33;Variant_ClassificationIntron;
+Record(CHROM=7, POS=12513798, REF=G, ALT=[T])....Callers['broad', 'muse'];NumCallers2;VAF0.1034;t_alt_count3;t_ref_count26;Variant_ClassificationIGR;
+f6c811ff-f22e-490b-9b23-b527d20e6e6d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=101549032, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2143;cosmicCOSM3943952;t_alt_count12;t_ref_count44;Variant_ClassificationIntron;
+f7b84c09-15d4-3046-e040-11ac0c4847ff.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=7900210, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4082;t_alt_count20;t_ref_count29;Variant_ClassificationIntron;
+f7c7373c-1972-4968-e040-11ac0d486e80.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=102018651, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.0968;t_alt_count3;t_ref_count28;Variant_ClassificationIntron;
+Record(CHROM=5, POS=79154298, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.15;t_alt_count9;t_ref_count51;Variant_ClassificationIGR;
+f7d70fac-c76f-399e-e040-11ac0c482f9c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=129467059, REF=C, ALT=[T])....1000genomes_AF0.0013978;1000genomes_IDrs142202890;Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.12;dbsnprs142202890;repeat_maskerL2c;t_alt_count6;t_ref_count44;Variant_ClassificationIGR;
+f7d7b3db-02af-61cb-e040-11ac0c480c03.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=152770094, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3235;t_alt_count22;t_ref_count46;Variant_ClassificationIGR;
+f81693ba-09ee-4201-a389-0ceeda8a4636.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=33569261, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2165;repeat_maskerMLT1J;t_alt_count21;t_ref_count76;Variant_ClassificationIGR;
+Record(CHROM=20, POS=48951916, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.25;repeat_maskerMLT1J1;t_alt_count8;t_ref_count24;Variant_ClassificationIGR;
+Record(CHROM=5, POS=676505, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.34;t_alt_count17;t_ref_count33;Variant_ClassificationIntron;
+Record(CHROM=7, POS=73684500, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4483;t_alt_count13;t_ref_count16;Variant_ClassificationIGR;
+f82d2146-70f5-8114-e040-11ac0d483e50.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=231714941, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2069;repeat_maskerL2a;t_alt_count6;t_ref_count23;Variant_ClassificationIGR;
+Record(CHROM=7, POS=106647962, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.093;t_alt_count4;t_ref_count39;Variant_ClassificationIGR;
+f83fc777-5416-c3e9-e040-11ac0d482c8e.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=58530151, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4;t_alt_count10;t_ref_count15;Variant_ClassificationIntron;
+f85add3d-e2e6-31f8-e040-11ac0d48479c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=101548048, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4737;repeat_maskerMER89;t_alt_count9;t_ref_count10;Variant_ClassificationIntron;
+Record(CHROM=6, POS=167656018, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2895;t_alt_count11;t_ref_count27;Variant_ClassificationlincRNA;
+f86975a2-78a4-ef8c-e040-11ac0c4809da.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=23322588, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2593;t_alt_count14;t_ref_count40;Variant_ClassificationRNA;
+Record(CHROM=6, POS=39193455, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0741;t_alt_count4;t_ref_count50;Variant_ClassificationIntron;
+Record(CHROM=6, POS=39193471, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0882;t_alt_count6;t_ref_count62;Variant_ClassificationIntron;
+f86ae246-2492-9785-e040-11ac0d4813b0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=62777086, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3182;repeat_maskerMamGypLTR3;t_alt_count14;t_ref_count30;Variant_ClassificationIGR;
+Record(CHROM=7, POS=155149903, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1475;t_alt_count9;t_ref_count52;Variant_Classification3'UTR;
+f87348df-7186-4c6b-e040-11ac0c482ba9.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=101072862, REF=T, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4783;t_alt_count22;t_ref_count24;Variant_ClassificationIGR;
+f89ef95e-6e39-420b-a3c2-ccebcc69ce3b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=13184972, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6786;t_alt_count38;t_ref_count18;Variant_ClassificationIGR;
+f8e61a02-8c9e-aaee-e040-11ac0d481b6a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=6, POS=44169549, REF=A, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2105;repeat_maskerMIR;t_alt_count8;t_ref_count30;Variant_ClassificationIGR;
+f92fde51-6a19-6641-e040-11ac0c484074.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=44815352, REF=C, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.0811;t_alt_count3;t_ref_count34;Variant_ClassificationIntron;
+f9dc999f-6dde-448d-9cf1-2897ddcf7b0b.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=138698662, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2083;t_alt_count5;t_ref_count19;Variant_ClassificationIGR;
+fabf1f6c-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=9589636, REF=A, ALT=[G])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2174;cosmicCOSN5379767;repeat_maskerAluJo;t_alt_count5;t_ref_count18;Variant_ClassificationIGR;
+fb74cca4-ac9c-4be0-80e3-e71592f96aae.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=653416, REF=C, ALT=[G])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.4;cosmicCOSN18988322;repeat_maskerC-rich;t_alt_count4;t_ref_count6;Variant_ClassificationIntron;
+fbd899a0-c622-11e3-bf01-24c6515278c0.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=139119515, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3571;cosmicCOSN2204946;repeat_maskerMIRc;t_alt_count10;t_ref_count18;Variant_ClassificationIGR;
+Record(CHROM=8, POS=140641544, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1591;t_alt_count7;t_ref_count37;Variant_ClassificationIntron;
+fc009c3d-66fc-4b9c-ae43-014607e3723a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=18, POS=46449617, REF=G, ALT=[A])....Callers['dkfz', 'sanger'];NumCallers2;VAF0.3478;t_alt_count8;t_ref_count15;Variant_ClassificationIntron;
+Record(CHROM=2, POS=231715033, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.2941;repeat_maskerL2a;t_alt_count5;t_ref_count12;Variant_ClassificationIGR;
+Record(CHROM=2, POS=240215712, REF=C, ALT=[T])....Callers['dkfz', 'sanger'];NumCallers2;VAF0.2222;t_alt_count6;t_ref_count21;Variant_ClassificationIntron;
+Record(CHROM=6, POS=16266127, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2667;repeat_maskerLTR12;t_alt_count8;t_ref_count22;Variant_ClassificationIntron;
+fc447d4f-2532-c8ea-e040-11ac0c48469f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=33922084, REF=G, ALT=[C])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.0769;t_alt_count3;t_ref_count36;Variant_ClassificationIGR;
+Record(CHROM=9, POS=135859473, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1707;t_alt_count7;t_ref_count34;Variant_ClassificationIntron;
+fc447d51-cdc2-a180-e040-11ac0c4846a4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=22, POS=30112792, REF=A, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2444;t_alt_count11;t_ref_count34;signature_N3True;Variant_ClassificationRNA;
+fc447d56-0d53-e0c3-e040-11ac0c4846a8.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=37860945, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.14;t_alt_count7;t_ref_count43;Variant_ClassificationIGR;
+fc5dc6d8-62d2-76d8-e040-11ac0d4863c3.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=148967435, REF=A, ALT=[G])....Callers['broad', 'muse'];NumCallers2;VAF0.1212;repeat_maskerMSTB;t_alt_count4;t_ref_count29;Variant_ClassificationIntron;
+fc63cbab-d27a-5ebb-e040-11ac0c48724f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=4862180, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2791;t_alt_count12;t_ref_count31;Variant_ClassificationIGR;
+fc68c24d-47ad-7961-e040-11ac0c48595c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=21, POS=46978095, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1538;t_alt_count6;t_ref_count33;Variant_ClassificationIGR;
+fc78685a-7053-152a-e040-11ac0c480ded.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=73508344, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.22;t_alt_count11;t_ref_count39;Variant_Classification3'UTR;
+fc7eb420-5c13-20bd-e040-11ac0d484574.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=9, POS=135860002, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3889;t_alt_count14;t_ref_count22;Variant_ClassificationIntron;
+fc7f8eeb-9c40-123e-e040-11ac0c484061.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=22933288, REF=C, ALT=[T])....1000genomes_AF0.00039936;1000genomes_IDrs536389962;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0909;dbsnprs536389962;repeat_maskerL2a;t_alt_count6;t_ref_count60;Variant_ClassificationIntron;
+fc8130df-1f21-c8f9-e040-11ac0d485dfc.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=20, POS=653437, REF=T, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3043;repeat_maskerC-rich;t_alt_count7;t_ref_count16;Variant_ClassificationIntron;
+fc8130df-2628-304a-e040-11ac0d485dfa.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=17, POS=7217398, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3125;t_alt_count15;t_ref_count33;Variant_ClassificationSplice_Site;
+fc8130df-2ca4-39d2-e040-11ac0d485e00.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=763112, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3043;t_alt_count7;t_ref_count16;Variant_ClassificationIntron;
+fc8130df-2d5f-3b53-e040-11ac0d485dee.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=21, POS=46978122, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.225;t_alt_count9;t_ref_count31;Variant_ClassificationIGR;
+Record(CHROM=6, POS=14464626, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2;t_alt_count10;t_ref_count40;Variant_ClassificationIGR;
+Record(CHROM=X, POS=134305649, REF=A, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5385;t_alt_count21;t_ref_count18;Variant_Classification5'Flank;
+fc8130df-3225-3f96-e040-11ac0d485dfe.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=3, POS=196064227, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1111;repeat_maskerMER50;t_alt_count7;t_ref_count56;Variant_ClassificationIntron;
+fc8130df-6bec-7627-e040-11ac0d485e04.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=10206514, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0857;repeat_maskerMER46C;t_alt_count6;t_ref_count64;Variant_ClassificationIntron;
+fc8130df-897d-5404-e040-11ac0d485e0a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=X, POS=153780646, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3333;repeat_maskerLTR16A;t_alt_count8;t_ref_count16;Variant_ClassificationIntron;
+fc8130df-8e4e-586b-e040-11ac0d485e08.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=13749486, REF=G, ALT=[T])....Callers['dkfz', 'muse', 'sanger'];NumCallers3;VAF0.1957;t_alt_count9;t_ref_count37;Variant_ClassificationIntron;
+fc8130df-8ec8-5b1e-e040-11ac0d485e06.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=65664367, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3976;t_alt_count33;t_ref_count50;Variant_ClassificationlincRNA;
+fc8130df-e399-e34d-e040-11ac0c483279.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=27098601, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2857;t_alt_count12;t_ref_count30;Variant_ClassificationIntron;
+Record(CHROM=20, POS=653747, REF=A, ALT=[G])....1000genomes_AF0.00019968;1000genomes_IDrs570391390;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.45;dbsnprs570391390;t_alt_count9;t_ref_count11;Variant_ClassificationIntron;
+fc8130e0-096a-b991-e040-11ac0c48327d.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=29460593, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1562;t_alt_count5;t_ref_count27;Variant_ClassificationIGR;
+fc8130e0-a38a-23b9-e040-11ac0c48327f.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=15, POS=101548075, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2063;repeat_maskerMER89;t_alt_count13;t_ref_count50;Variant_ClassificationIntron;
+fc8130e0-a539-dda8-e040-11ac0c48326a.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=152569412, REF=G, ALT=[A])....Callers['broad', 'muse', 'sanger'];NumCallers3;VAF0.1714;t_alt_count6;t_ref_count29;Variant_ClassificationIGR;
+fc8130e0-a8b4-d80d-e040-11ac0c483272.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=16, POS=4945085, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2364;repeat_maskerMLT1K;t_alt_count13;t_ref_count42;Variant_ClassificationIntron;
+fc8130e0-a94d-d9d0-e040-11ac0c483262.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=242167576, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.2069;t_alt_count6;t_ref_count23;Variant_Classification3'UTR;
+fc8130e3-023d-c7d4-e040-11ac0c483295.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=19, POS=424397, REF=G, ALT=[C])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6;t_alt_count21;t_ref_count14;Variant_ClassificationIntron;
+Record(CHROM=19, POS=18896750, REF=A, ALT=[C])....Callers['broad', 'muse'];NumCallers2;VAF0.3;t_alt_count18;t_ref_count42;Variant_ClassificationIntron;
+fc8130e5-18b8-ef38-e040-11ac0c483297.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=47210802, REF=G, ALT=[A])....Callers['broad', 'muse'];NumCallers2;VAF0.0976;repeat_maskerMER58A;t_alt_count4;t_ref_count37;Variant_ClassificationIntron;
+fc8edf46-2005-1af4-e040-11ac0d481414.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=240216164, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1522;dbsnprs747173031;t_alt_count7;t_ref_count39;Variant_ClassificationIntron;
+Record(CHROM=7, POS=150693889, REF=T, ALT=[G])....Callers['broad', 'dkfz'];NumCallers2;VAF0.3158;t_alt_count6;t_ref_count13;Variant_ClassificationMissense_Mutation;
+fc93b9ab-760a-5223-e040-11ac0c482177.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=155137261, REF=T, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.3125;t_alt_count10;t_ref_count22;Variant_ClassificationIGR;
+fc950c33-faa4-0241-e040-11ac0c486786.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=156427409, REF=T, ALT=[G])....Callers['broad', 'dkfz'];NumCallers2;VAF0.1667;t_alt_count6;t_ref_count30;signature_R1True;Variant_ClassificationlincRNA;
+fc962061-8ab0-42b3-e040-11ac0c4810cc.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=X, POS=134572595, REF=C, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.5714;t_alt_count8;t_ref_count6;Variant_ClassificationIGR;
+fc9d704c-0cfb-0407-e040-11ac0d486980.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=5, POS=7475098, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.0722;dbsnprs764427930;t_alt_count7;t_ref_count90;Variant_ClassificationIntron;
+fc9f6cb0-ceb9-790d-e040-11ac0c480ad1.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=1, POS=37876040, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6596;t_alt_count31;t_ref_count16;Variant_ClassificationIGR;
+fc9f998b-cc72-f6ea-e040-11ac0c482425.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=106648111, REF=G, ALT=[A])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.275;cosmicCOSN8352552;t_alt_count22;t_ref_count58;Variant_ClassificationIGR;
+fca6150f-d555-a29e-e040-11ac0d4873b2.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=10, POS=94515974, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.25;t_alt_count10;t_ref_count30;Variant_ClassificationIGR;
+fdf7dfb7-9285-46b3-be60-672164507705.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=11, POS=73700328, REF=C, ALT=[G])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4;cosmicCOSN17390458;t_alt_count18;t_ref_count27;Variant_ClassificationIGR;
+fe96d91c-3686-4125-af71-b8703a011ad4.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=14, POS=103571425, REF=T, ALT=[A])....Callers['dkfz', 'sanger'];NumCallers2;Variant_ClassificationIntron;
+Record(CHROM=4, POS=87938832, REF=C, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.6212;cosmicCOSN7645080;dbsnprs372255066;t_alt_count41;t_ref_count25;Variant_ClassificationIntron;
+ff870342-f0d6-4450-8f9c-344c046a0baf.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=7, POS=168493, REF=G, ALT=[T])....Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.1277;t_alt_count6;t_ref_count41;snv_near_indelTrue;Variant_ClassificationIGR;
+ffe4bb51-e98a-41a7-a4e1-c3970386889c.consensus.20160830.somatic.snv_mnv.vcf
+Record(CHROM=2, POS=106258139, REF=C, ALT=[T])....1000genomes_AF0.0017971;1000genomes_IDrs72931673;Callers['broad', 'dkfz', 'muse', 'sanger'];NumCallers4;VAF0.4658;cosmicCOSN16875987;dbsnprs72931673;repeat_maskerL3;t_alt_count34;t_ref_count39;Variant_ClassificationIGR;
