@@ -1,0 +1,27 @@
+FACT SHEET
+
+- 1240/1902 files had at least one hit
+
+- File distribution for each type of region:
+both: 500
+depleted: 1020
+enriched: 470
+nonsig: 72
+
+- total # of hits for each type of region:
+both: 966
+depleted: 3161
+enriched: 842
+nonsig: 81
+
+-distribution of variant types for BOTH:
+{'Intron': 373, 'IGR': 440, 'lincRNA': 47, 'Missense_Mutation': 26, "3'UTR": 30, 'RNA': 42, 'Silent': 5, "5'Flank": 1, "5'UTR": 2}
+
+-distribution of variant types for DEPLETED:
+{'Intron': 1236, 'RNA': 201, 'IGR': 1192, 'Silent': 68, 'Missense_Mutation': 115, "3'UTR": 64, 'lincRNA': 217, "5'Flank": 36, 'Splice_Site': 5, "5'UTR": 19, 'De_novo_Start_OutOfFrame': 1, 'Nonsense_Mutation': 7}
+
+-distribution of variant types for ENRICHED:
+{'IGR': 340, 'RNA': 46, "3'UTR": 47, 'Intron': 313, 'lincRNA': 53, 'Missense_Mutation': 20, "5'Flank": 7, 'Silent': 9, 'Splice_Site': 2, 'De_novo_Start_OutOfFrame': 1, "5'UTR": 3, 'Nonsense_Mutation': 1}
+
+-distribution of variant types for NONSIG:
+{'Intron': 22, 'IGR': 39, 'lincRNA': 15, 'RNA': 3, 'Missense_Mutation': 1, "3'UTR": 1}
